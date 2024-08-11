@@ -1,8 +1,12 @@
-from sqlserver import conectar_sql_server
+from App.sqlserver import conectar_sql_server
+from App.informacion import extraerInformacion
 import pyodbc
 
 
 def mostrarMenu():
+    db=conectar_sql_server()
+    if db is None:
+        return
     while True:
         print("----- Menú -----")
         print("1. Borrar Modelo")
@@ -20,7 +24,7 @@ def mostrarMenu():
             elif opcion == 2:
                 print("Opcion 2")
             elif opcion == 3:
-                print("Opcion 3")
+                extraerInformacion(db)
             elif opcion == 4:
                 print("Opcion 4")
             elif opcion == 5:
