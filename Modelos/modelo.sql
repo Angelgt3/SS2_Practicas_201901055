@@ -38,7 +38,7 @@ GO
 -- Crear tabla de Detalle_Vuelo
 CREATE TABLE Detalle_Vuelo (
     IdDetalle_Vuelo INT IDENTITY(1,1) PRIMARY KEY,
-    fecha_salida DATE,
+    fecha_salida VARCHAR(100),
     aeropuerto_llegada VARCHAR(100),
     piloto VARCHAR(100),
     Estado_vuelo VARCHAR(10)
@@ -57,22 +57,3 @@ CREATE TABLE Vuelos (
     IdDetalle_Vuelo INT FOREIGN KEY REFERENCES Detalle_Vuelo(IdDetalle_Vuelo)
 );
 GO
-
-CREATE TABLE DatosTemporales (
-    IdVuelo INT IDENTITY(1,1) PRIMARY KEY,
-    PassengerID VARCHAR(100),
-    FirstName VARCHAR(100),
-    LastName VARCHAR(100),
-    Gender VARCHAR(10),
-    Age INT,
-    Nationality VARCHAR(100),
-    AirportName VARCHAR(100),
-    AirportCountryCode VARCHAR(100),
-    CountryName VARCHAR(100),
-    AirportContinent VARCHAR(100),
-    Continents VARCHAR(100),
-    DepartureDate VARCHAR(100),
-    ArrivalAirport VARCHAR(100),
-    PilotName VARCHAR(100),
-    FlightStatus VARCHAR(100)
-)

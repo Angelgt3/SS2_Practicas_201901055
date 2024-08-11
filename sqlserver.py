@@ -4,10 +4,10 @@ def conectar_sql_server():
     try:
         conexion = pyodbc.connect(
             'DRIVER={ODBC Driver 17 for SQL Server};'
-            'SERVER=Localhost\SQLEXPRESS;'
-            'DATABASE=SEMI2_practica1;'
-            'UID=admin;'
-            'PWD=201901055'
+            'SERVER=;'
+            'DATABASE=;'
+            'UID=;'
+            'PWD=;'
         )
         print("Conexión exitosa a SQL Server.")
         return conexion
