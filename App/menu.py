@@ -1,5 +1,5 @@
 from App.sqlserver import conectar_sql_server
-from App.informacion import extraerInformacion
+from App.informacion import extraerInformacion, cargarInformacion
 import pyodbc
 
 
@@ -26,7 +26,7 @@ def mostrarMenu():
             elif opcion == 3:
                 extraerInformacion(db)
             elif opcion == 4:
-                print("Opcion 4")
+                cargarInformacion(db)
             elif opcion == 5:
                 print("Opcion 5")
             elif opcion == 6:

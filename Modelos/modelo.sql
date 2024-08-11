@@ -10,7 +10,7 @@ CREATE TABLE Pasajeros (
     IdPasajero VARCHAR(100) PRIMARY KEY,
     Nombre VARCHAR(100),
     Apellido VARCHAR(100),
-    Genero VARCHAR(10),
+    Genero VARCHAR(20),
     Edad INT,
     Nacionalidad VARCHAR(100)
 );
