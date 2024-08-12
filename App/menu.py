@@ -1,6 +1,8 @@
 from App.sqlserver import conectar_sql_server
 from App.informacion import extraerInformacion, cargarInformacion
+from App.consultas import mostrarMenuConsultas
 import pyodbc
+import os
 
 
 def mostrarMenu():
@@ -8,6 +10,7 @@ def mostrarMenu():
     if db is None:
         return
     while True:
+        os.system('cls' if os.name == 'nt' else 'clear')
         print("----- Menú -----")
         print("1. Borrar Modelo")
         print("2. Crear Modelo")
@@ -28,7 +31,7 @@ def mostrarMenu():
             elif opcion == 4:
                 cargarInformacion(db)
             elif opcion == 5:
-                print("Opcion 5")
+                mostrarMenuConsultas(db)
             elif opcion == 6:
                 print("Saliendo...")
                 break  
@@ -36,3 +39,5 @@ def mostrarMenu():
                 print("Opción inválida. Inténtalo de nuevo.")
         except ValueError:
             print("Por favor, ingresa un número válido.")
+        input("Presiona cualquier tecla para continuar...")
+        os.system('cls' if os.name == 'nt' else 'clear')

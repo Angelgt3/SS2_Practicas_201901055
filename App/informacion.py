@@ -62,9 +62,7 @@ def TrasformarDatos(fila):
             fila[12] = fecha.strftime('%Y-%m-%d') 
         except ValueError:
             print(f"Error al procesar la fecha: {fechaSucia}. Se asignará NULL.")
-            fila[1] = None  
-    print("FilaLimpia antes de la inserción:")
-
+            fila[12] = None  
     return fila
 
 
@@ -74,47 +72,63 @@ def cargarInformacion(db):
     cursor = db.cursor()
     cursor.execute("SELECT * FROM DatosTemporales")
     datosTemp = cursor.fetchall()
-
+    contador = 0 
     for fila in datosTemp:
         FilaLimpia = TrasformarDatos(list(fila)) 
 
-        print("Primera linea")
-        print(FilaLimpia[0], FilaLimpia[1], FilaLimpia[2], FilaLimpia[3], FilaLimpia[4], FilaLimpia[5])
-        print("Segunda linea")
-        print(FilaLimpia[6], FilaLimpia[7], FilaLimpia[8], FilaLimpia[9], FilaLimpia[10], FilaLimpia[11])
-        print("Tercera linea")
-        print(FilaLimpia[12], FilaLimpia[13], FilaLimpia[14], FilaLimpia[15])
+        #print(FilaLimpia[0], FilaLimpia[1], FilaLimpia[2], FilaLimpia[3], FilaLimpia[4], FilaLimpia[5])
+        #print(FilaLimpia[6], FilaLimpia[7], FilaLimpia[8], FilaLimpia[9], FilaLimpia[10], FilaLimpia[11])
+        #print(FilaLimpia[12], FilaLimpia[13], FilaLimpia[14], FilaLimpia[15])
 
-        # Tabla pasajeros
-        cursor.execute("""
-            INSERT INTO Pasajeros 
-            (IdPasajero, Nombre, Apellido, Genero, Edad, Nacionalidad)
-            VALUES (?, ?, ?, ?, ?, ?)
-        """, (FilaLimpia[1], FilaLimpia[2], FilaLimpia[3], FilaLimpia[4], FilaLimpia[5]))
+        try:
+            # Tabla pasajeros
+            cursor.execute("""
+                INSERT INTO Pasajeros 
+                (IdPasajero, Nombre, Apellido, Genero, Edad, Nacionalidad)
+                VALUES (?, ?, ?, ?, ?, ?)
+            """, (FilaLimpia[1], FilaLimpia[2], FilaLimpia[3], FilaLimpia[4], FilaLimpia[5], FilaLimpia[6]))
 
-        # Tabla Aeropuertos
-        cursor.execute("""
-            INSERT INTO Aeropuertos 
-            (Nombre, IdPais, Pais, IdContinente, Continente)
-            VALUES (?, ?, ?, ?, ?)
-        """, (FilaLimpia[7], FilaLimpia[8], FilaLimpia[9], FilaLimpia[10], FilaLimpia[11]))       
+            # Tabla Aeropuertos
+            cursor.execute("""
+                INSERT INTO Aeropuertos 
+                (Nombre, IdPais, Pais, IdContinente, Continente)
+                VALUES (?, ?, ?, ?, ?)
+            """, (FilaLimpia[7], FilaLimpia[8], FilaLimpia[9], FilaLimpia[10], FilaLimpia[11]))    
 
-        # Tabla Detalle_Vuelo
-        cursor.execute("""
-            INSERT INTO Detalle_Vuelo 
-            (fecha_salida, aeropuerto_llegada, piloto, Estado_vuelo)
-            VALUES (?, ?, ?, ?)
-        """, (FilaLimpia[12], FilaLimpia[13], FilaLimpia[14], FilaLimpia[15]))
+            # Tabla Detalle_Vuelo
+            cursor.execute("""
+                INSERT INTO Detalle_Vuelo 
+                (fecha_salida, aeropuerto_llegada, piloto, Estado_vuelo)
+                VALUES (?, ?, ?, ?)
+            """, (FilaLimpia[12], FilaLimpia[13], FilaLimpia[14], FilaLimpia[15]))
 
-        # Tabla Vuelos
-        cursor.execute("""
-            INSERT INTO Vuelos 
-            (IdPasajero, IdAeropuerto, IdDetalle_Vuelo)
-            VALUES ((SELECT IdPasajero FROM Pasajeros WHERE IdPasajero = ?), 
-                    (SELECT IdAeropuerto FROM Aeropuertos WHERE Nombre = ?), 
-                    (SELECT IdDetalle_Vuelo FROM Detalle_Vuelo WHERE fecha_salida = ?))
-        """, (FilaLimpia[0], FilaLimpia[6], FilaLimpia[11]))
+            # Tabla Vuelos
+            # Obtener el IdPasajero
+            cursor.execute("SELECT IdPasajero FROM Pasajeros WHERE IdPasajero = ?", (FilaLimpia[1],))
+            IdPasajero = cursor.fetchone()
+            # Obtener el IdAeropuerto
+            cursor.execute("SELECT IdAeropuerto FROM Aeropuertos WHERE Nombre = ?", (FilaLimpia[7],))
+            IdAeropuerto = cursor.fetchone()
+            # Obtener el IdDetalle_Vuelo
+            cursor.execute("SELECT IdDetalle_Vuelo FROM Detalle_Vuelo WHERE fecha_salida = ?", (FilaLimpia[12],))
+            IdDetalle_Vuelo = cursor.fetchone()
+            if IdPasajero and IdAeropuerto and IdDetalle_Vuelo:
+                cursor.execute("""
+                    INSERT INTO Vuelos 
+                    (IdPasajero, IdAeropuerto, IdDetalle_Vuelo)
+                    VALUES (?, ?, ?)
+                """, (IdPasajero[0], IdAeropuerto[0], IdDetalle_Vuelo[0]))
+            else:
+                print("No se pudieron obtener todos los IDs necesarios.")
+        
+        except pyodbc.Error as e:
+            print(f"Error al insertar la fila: {FilaLimpia}. Error: {e}")
+            errores += 1
+        contador += 1
+        if contador % 1000 == 0:
+            db.commit()
+            print('No. Datos:', contador)
 
-    db.commit()
-    print("Datos cargados al modelo.")
+    
+    print("Datos cargados al modelo. Total:", contador)
     cursor.close()
