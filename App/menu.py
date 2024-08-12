@@ -1,6 +1,7 @@
 from App.sqlserver import conectar_sql_server
 from App.informacion import extraerInformacion, cargarInformacion
 from App.consultas import mostrarMenuConsultas
+from App.modelos import eliminarModelo, crearModelo
 import pyodbc
 import os
 
@@ -23,9 +24,9 @@ def mostrarMenu():
             opcion = int(input("Selecciona una opción: "))
             
             if opcion == 1:
-                print("Opcion 1")
+                eliminarModelo(db)
             elif opcion == 2:
-                print("Opcion 2")
+                crearModelo(db)
             elif opcion == 3:
                 extraerInformacion(db)
             elif opcion == 4:
@@ -33,7 +34,7 @@ def mostrarMenu():
             elif opcion == 5:
                 mostrarMenuConsultas(db)
             elif opcion == 6:
-                print("Saliendo...")
+                print("Bye :D")
                 break  
             else:
                 print("Opción inválida. Inténtalo de nuevo.")
