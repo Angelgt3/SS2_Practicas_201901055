@@ -70,9 +70,34 @@ El modelo estrella fue seleccionado para este Data Warehouse debido a su simplic
 ---
 
 
-# Inicializacion 
-### Entorno 
-.\entorno\Scripts\Activate.ps1
+# Inicialización del Proyecto
+
+1. Clona el repositorio en tu máquina local
+```
+git clone <URL_DEL_REPOSITORIO>
+```
+2. Accede a la carpeta del proyecto
+```
+cd <NOMBRE_DEL_REPOSITORIO>
+```
+3. Crea un entorno virtual:
+```
+python -m venv env
+```
+4. Activa el entorno virtual:
+- En Windows:
+```
+env\Scripts\activate
+```
+- En macOS/Linux:
+```
+source env/bin/activate
+```
+
+5. Instala las dependencias necesarias:
+```
+pip install -r requirements.txt
+```
 
 ### Ejecutar
 python .\main.py
