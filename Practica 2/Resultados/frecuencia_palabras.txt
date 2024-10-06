@@ -1,0 +1,7 @@
+Frecuencia de palabras:
+Este: 1
+texto: 1
+ejemplo: 1
+calcular: 1
+frecuencia: 1
+palabras: 1

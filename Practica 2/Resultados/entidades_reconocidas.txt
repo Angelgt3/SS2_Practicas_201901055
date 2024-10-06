@@ -1,0 +1,3 @@
+Entidades reconocidas:
+Ejemplo: NOUN
+Curso A: COURSE

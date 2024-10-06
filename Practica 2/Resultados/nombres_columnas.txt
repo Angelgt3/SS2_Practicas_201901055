@@ -1,0 +1,2 @@
+Nombres de columnas después de limpieza:
+['Course Title', 'Rating', 'Level', 'Duration', 'Schedule', 'Review', 'What you will learn', 'Skill gain', 'Modules', 'Instructor', 'Offered By', 'Keyword', 'Course Url']

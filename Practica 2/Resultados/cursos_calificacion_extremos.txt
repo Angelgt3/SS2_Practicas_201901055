@@ -1,0 +1,4 @@
+Curso con mayor calificación:
+El Holocausto: el abismo de la humanidad con rating: 5.0
+Curso con menor calificación:
+Software Architecture for Big Data Specialization con rating: 3.1

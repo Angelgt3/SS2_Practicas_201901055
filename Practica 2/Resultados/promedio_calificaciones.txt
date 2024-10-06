@@ -1,0 +1,2114 @@
+Promedio de calificaciones por curso:
+Curso:  Assisting Public Sector Decision Makers With Policy Analysis, Promedio: 4.80
+Curso:  Comercio, Inmigración y Tipos de Cambio en un Mundo Globalizado, Promedio: 4.90
+Curso:  FPGA computing systems: Background knowledge and introductory materials, Promedio: 4.60
+Curso:  Future Healthcare Payment Models, Promedio: 4.50
+Curso:  IBM and ISC2 Cybersecurity Specialist Professional Certificate, Promedio: 4.80
+Curso:  Improving Immunity Based on Traditional Eastern Exercises, Promedio: 4.50
+Curso:  Introduction to Academic Writing, Promedio: 4.40
+Curso:  Natural Language Processing and Capstone Assignment, Promedio: 4.70
+Curso:  Preparation for CompTIA A+ Certification Specialization, Promedio: 4.90
+Curso:  البرمجة اللغوية العصبية | NLP , Promedio: 4.70
+Curso:  مهارات التفكير الجانبي  | Lateral Thinking Skills, Promedio: 4.90
+Curso: #talkmentalillness, Promedio: 4.50
+Curso: .NET FullStack Developer Specialization, Promedio: 4.10
+Curso: .Net Full Stack Foundation, Promedio: 4.10
+Curso: 1. 基礎知識：データはあらゆるところにある, Promedio: 4.70
+Curso: 2. データに基づいた意思決定を行うための問いかけ, Promedio: 4.60
+Curso: 21st Century Energy Transition: how do we make it work?, Promedio: 4.90
+Curso: 3-Axis Machining with Autodesk Fusion 360, Promedio: 4.90
+Curso: 4G Network Fundamentals, Promedio: 4.70
+Curso: 5G Network Fundamentals, Promedio: 4.80
+Curso: 5G for Everyone, Promedio: 4.80
+Curso: A Blueprint for Success – Your Video Pre-Production, Promedio: 4.50
+Curso: A Circular Economy of Metals: Towards a Sustainable Societal Metabolism, Promedio: 4.70
+Curso: A Crash Course in Data Science, Promedio: 4.50
+Curso: A General Approach to Risk Management, Promedio: 4.90
+Curso: A Guide to Healthcare Innovation: Principles and Practice , Promedio: 4.70
+Curso: A Practitioner's Approach to Power Distribution & Automation Specialization, Promedio: 4.70
+Curso: ADP Accountant Connect Certification, Promedio: 4.50
+Curso: AI & Law , Promedio: 4.70
+Curso: AI Capstone Project with Deep Learning , Promedio: 4.50
+Curso: AI For Medical Treatment, Promedio: 4.70
+Curso: AI Product Management Specialization, Promedio: 4.70
+Curso: AI for Good Specialization, Promedio: 4.80
+Curso: AI for Medical Prognosis , Promedio: 4.70
+Curso: AI for Medicine Specialization, Promedio: 4.70
+Curso: AI in Healthcare Specialization, Promedio: 4.70
+Curso: AI, Business & the Future of Work, Promedio: 4.70
+Curso: AI, Empathy & Ethics, Promedio: 4.20
+Curso: AIDS: Fear and Hope, Promedio: 4.80
+Curso: API Design and Fundamentals of Google Cloud's Apigee API Platform, Promedio: 4.70
+Curso: APIs, Promedio: 4.50
+Curso: ASP.NET for Experienced Developers Specialization, Promedio: 3.90
+Curso: AWS Cloud Practitioner Essentials, Promedio: 4.80
+Curso: AWS Cloud Solutions Architect  Professional Certificate, Promedio: 4.80
+Curso: AWS Cloud Technical Essentials, Promedio: 4.80
+Curso: AWS Cloud Technology Consultant Professional Certificate, Promedio: 4.80
+Curso: AWS Services Overview for IT Professionals, Promedio: 4.90
+Curso: Abnormal Psychology Specialization, Promedio: 4.80
+Curso: Accelerated Computer Science Fundamentals Specialization, Promedio: 4.70
+Curso: Accountability y gestión del desempeño, Promedio: 4.70
+Curso: Accounting Data Analytics with Python, Promedio: 4.30
+Curso: Accounting for Decision Making, Promedio: 4.70
+Curso: Acing the Product Management Interview, Promedio: 4.70
+Curso: Act on Climate: Steps to Individual, Community, and Political Action, Promedio: 4.80
+Curso: Active Learning in STEM with PhET Interactive Simulations Specialization, Promedio: 4.90
+Curso: Active Listening: Enhancing Communication Skills, Promedio: 4.50
+Curso: Active Optical Devices Specialization, Promedio: 4.10
+Curso: Activity Design with PhET Simulations for STEM Education, Promedio: 5.00
+Curso: Activos, amenazas y vulnerabilidades, Promedio: 4.80
+Curso: Acupressure, Promedio: 4.80
+Curso: Acute and Chronic Rhinosinusitis: A Comprehensive Review, Promedio: 4.80
+Curso: Adapt your leadership style, Promedio: 4.80
+Curso: Adapting: Career Development Specialization, Promedio: 4.80
+Curso: Additive Manufacturing, Promedio: 4.70
+Curso: Additive Manufacturing Specialization, Promedio: 4.90
+Curso: Addressing Racial Health Inequity in Healthcare Specialization, Promedio: 4.80
+Curso: Administración de Empresas Specialization, Promedio: 4.70
+Curso: Administración de Recursos Humanos, Promedio: 4.80
+Curso: Administración de las Tecnologías de la Información, Promedio: 4.80
+Curso: Advanced Business Analytics Capstone, Promedio: 4.30
+Curso: Advanced Business Strategy, Promedio: 4.80
+Curso: Advanced Content and Social Tactics to Optimize SEO, Promedio: 4.60
+Curso: Advanced Cybersecurity Concepts and Capstone Project, Promedio: 4.30
+Curso: Advanced Digital Transformation Specialization, Promedio: 4.20
+Curso: Advanced Django: Mastering Django and Django Rest Framework Specialization, Promedio: 4.60
+Curso: Advanced Embedded Linux Development Specialization, Promedio: 4.30
+Curso: Advanced Learning Algorithms, Promedio: 4.90
+Curso: Advanced MySQL Topics, Promedio: 4.70
+Curso: Advanced Portfolio Construction and Analysis with Python, Promedio: 4.70
+Curso: Advanced React, Promedio: 4.70
+Curso: Advanced Recommender Systems, Promedio: 3.80
+Curso: Advanced Spacecraft Dynamics and Control Specialization, Promedio: 4.90
+Curso: Advanced Statistics for Data Science Specialization, Promedio: 4.30
+Curso: Advanced Topics and Future Trends in Database Technologies, Promedio: 4.70
+Curso: African development – from the past to the present, Promedio: 4.00
+Curso: Agile Development Specialization, Promedio: 4.70
+Curso: Agile Leader Training, Promedio: 4.80
+Curso: Agile Leadership Capstone, Promedio: 4.90
+Curso: Agile Leadership Specialization, Promedio: 4.80
+Curso: Agile Meets Design Thinking, Promedio: 4.70
+Curso: Agile Project Management, Promedio: 4.80
+Curso: Agile with Atlassian Jira, Promedio: 4.70
+Curso: Akamai Customer Consulting and Support Professional Certificate, Promedio: 4.80
+Curso: Akamai Network Engineering Professional Certificate, Promedio: 4.80
+Curso: Algebra and Differential Calculus for Data Science, Promedio: 4.50
+Curso: Algebra: Elementary to Advanced Specialization, Promedio: 4.80
+Curso: Algorithmic Toolbox, Promedio: 4.60
+Curso: Algorithms for Battery Management Systems Specialization, Promedio: 4.80
+Curso: Algorithms for Searching, Sorting, and Indexing, Promedio: 4.70
+Curso: Aligning Diet and Exercise, Promedio: 4.80
+Curso: Alternative Mobility Narratives, Promedio: 4.80
+Curso: American History Through Baseball Specialization, Promedio: 4.10
+Curso: An Introduction to Logic for Computer Science, Promedio: 4.50
+Curso: An Introduction to Programming using Python, Promedio: 4.70
+Curso: Analisis Data dengan Pemrograman R, Promedio: 4.90
+Curso: Analitik Data Google Professional Certificate, Promedio: 4.90
+Curso: Analizando las Políticas Económicas, Promedio: 4.80
+Curso: Analysing: Numeric and digital literacies Specialization, Promedio: 4.50
+Curso: Analysis for Business Systems, Promedio: 4.80
+Curso: Analyze Data to Answer Questions, Promedio: 4.60
+Curso: Analyzing and Visualizing Data in Looker, Promedio: 4.70
+Curso: Analyzing and Visualizing Data the Google Way, Promedio: 3.80
+Curso: Anatomy Specialization, Promedio: 4.80
+Curso: Anatomy: Cardiovascular, Respiratory and Urinary Systems, Promedio: 4.80
+Curso: Anatomy: Gastrointestinal, Reproductive and Endocrine Systems, Promedio: 4.80
+Curso: Anatomy: Human Neuroanatomy, Promedio: 4.90
+Curso: Anatomy: Musculoskeletal and Integumentary Systems, Promedio: 4.80
+Curso: Animals and Institutions, Promedio: 4.80
+Curso: Animals and Society Specialization, Promedio: 4.70
+Curso: Animals, Self, and Society, Promedio: 4.70
+Curso: Anti-Racism I, Promedio: 4.60
+Curso: Anti-Racism II, Promedio: 4.50
+Curso: Anti-Racism Specialization, Promedio: 4.70
+Curso: Anticoagulación, Promedio: 4.90
+Curso: Antisemitism: From Its Origins to the Present, Promedio: 4.60
+Curso: Antisemitismo: Desde sus orígenes hasta el presente, Promedio: 4.90
+Curso: Análisis de Datos de Google Professional Certificate, Promedio: 4.80
+Curso: Análisis de Sistemas Eléctricos y Transición Energética, Promedio: 4.80
+Curso: Apache Spark (TM) SQL for Data Analysts, Promedio: 4.50
+Curso: Apoio Técnico de TI da Google Professional Certificate, Promedio: 4.90
+Curso: Application Development using Microservices and Serverless , Promedio: 4.60
+Curso: Application Development with Cloud Run, Promedio: 4.50
+Curso: Application Security for Developers and DevOps Professionals, Promedio: 4.80
+Curso: Applied Data Science Capstone, Promedio: 4.70
+Curso: Applied Data Science Specialization, Promedio: 4.60
+Curso: Applied Data Science for Data Analysts, Promedio: 4.50
+Curso: Applied Data Science with Python Specialization, Promedio: 4.50
+Curso: Applied Data Science with R Specialization, Promedio: 4.50
+Curso: Applied Digital Literacy Specialization, Promedio: 4.70
+Curso: Applied Machine Learning in Python, Promedio: 4.60
+Curso: Applied Plotting, Charting & Data Representation in Python, Promedio: 4.50
+Curso: Applied Social Network Analysis in Python, Promedio: 4.60
+Curso: Applied Software Engineering Fundamentals Specialization, Promedio: 4.70
+Curso: Applied Text Mining in Python, Promedio: 4.20
+Curso: Applying Data Analytics in Finance, Promedio: 4.50
+Curso: Applying Machine Learning to your Data with Google Cloud, Promedio: 4.70
+Curso: Approaching Music Theory: Melodic Forms and Simple Harmony, Promedio: 4.70
+Curso: Aprendizajes en Ingeniería y Agricultura con Arduino: Construcción y automatización de un invernadero, Promedio: 4.80
+Curso: Archaeoastronomy, Promedio: 4.50
+Curso: Architecting with Google Kubernetes Engine: Foundations, Promedio: 4.70
+Curso: Architecting with Google Kubernetes Engine: Workloads, Promedio: 4.70
+Curso: Arctic Development, Promedio: 4.70
+Curso: Arctic Economy , Promedio: 4.60
+Curso: Arctic Meltdown Specialization, Promedio: 4.80
+Curso: Aromatherapy: Clinical Use of Essential Oils, Promedio: 4.90
+Curso: Art & Activity: Interactive Strategies for Engaging with Art, Promedio: 4.80
+Curso: Art & Ideas: Teaching with Themes, Promedio: 4.80
+Curso: Art & Inquiry: Museum Teaching Strategies For Your Classroom, Promedio: 4.70
+Curso: Artificial Creativity, Promedio: 4.50
+Curso: Artificial Intelligence (AI) Education for Teachers, Promedio: 4.70
+Curso: Artificial Intelligence in Marketing, Promedio: 4.50
+Curso: Artificial Intelligence on Microsoft Azure, Promedio: 4.60
+Curso: Ash-Related Operational Challenges in Energy Utilization of Sustainable Fuels, Promedio: 4.80
+Curso: Ask Questions to Make Data-Driven Decisions, Promedio: 4.70
+Curso: Aspectos básicos del diseño de la experiencia del usuario, Promedio: 4.90
+Curso: Aspectos básicos: Datos, datos, en todas partes, Promedio: 4.80
+Curso: Assess for Success: Marketing Analytics and Measurement, Promedio: 4.60
+Curso: Assessing and Improving Community Health, Promedio: 4.40
+Curso: Assessment for Data Analysis and Visualization Foundations, Promedio: 4.60
+Curso: Assets in Accounting, Promedio: 4.40
+Curso: Assets, Threats, and Vulnerabilities, Promedio: 4.80
+Curso: Atraer clientes e interactuar con ellos/as mediante el marketing digital, Promedio: 4.90
+Curso: Attention Mechanism, Promedio: 4.00
+Curso: Attract and Engage Customers with Digital Marketing, Promedio: 4.80
+Curso: Autodesk CAD/CAM for Manufacturing Specialization, Promedio: 4.80
+Curso: Autodesk CAD/CAM/CAE for Mechanical Engineering Specialization, Promedio: 4.80
+Curso: Autodesk Generative Design for Manufacturing Specialization, Promedio: 4.80
+Curso: Autoliderazgo y gestión de emociones para avanzar en desafíos complejos, Promedio: 4.90
+Curso: Automate Cybersecurity Tasks with Python, Promedio: 4.80
+Curso: Automating Real-World Tasks with Python, Promedio: 4.80
+Curso: Automation Business Analysis - Concepts and Principles, Promedio: 4.80
+Curso: Autonomous Aerospace Systems, Promedio: 4.60
+Curso: Autonomous Vehicle Engineering Specialization, Promedio: 4.30
+Curso: Averaged-Switch Modeling and Simulation, Promedio: 4.70
+Curso: BI Foundations with SQL, ETL and Data Warehousing Specialization, Promedio: 4.60
+Curso: Back-end Application Development Capstone Project, Promedio: 5.00
+Curso: Bacterial Bioinformatics, Promedio: 4.70
+Curso: Bases : Des données, des données, partout, Promedio: 4.60
+Curso: Bases de la conception Expérience Utilisateur (UX), Promedio: 4.60
+Curso: Bases de la gestion de projet, Promedio: 4.50
+Curso: Bases de la planification et de la gestion de projet, Promedio: 4.70
+Curso: Basic Elements of Design: Design Principles and Software Overview, Promedio: 4.70
+Curso: Basic Mathematics, Promedio: 4.60
+Curso: Basic System Programming on IBM Z, Promedio: 4.80
+Curso: Basics of Inclusive Design for Online Education, Promedio: 4.50
+Curso: Batteries and Electric Vehicles, Promedio: 4.50
+Curso: Battery Pack Balancing and Power Estimation, Promedio: 4.90
+Curso: Battery State-of-Charge (SOC) Estimation, Promedio: 4.80
+Curso: Battery State-of-Health (SOH) Estimation, Promedio: 4.70
+Curso: Battery Technologies Specialization, Promedio: 4.70
+Curso: Bayesian Inference with MCMC, Promedio: 3.30
+Curso: Bayesian Statistics Specialization, Promedio: 4.60
+Curso: Bayesian Statistics: From Concept to Data Analysis, Promedio: 4.60
+Curso: Bayesian Statistics: Techniques and Models, Promedio: 4.80
+Curso: Be Your Best Creative Self, Promedio: 4.60
+Curso: Becoming a Strengths Based Leader: Leading Standout® Teams Specialization, Promedio: 4.80
+Curso: Becoming a changemaker: Introduction to Social Innovation, Promedio: 4.80
+Curso: Being a researcher (in Information Science and Technology), Promedio: 4.80
+Curso: Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development, Promedio: 4.70
+Curso: Big Data Analytical Platform on Alibaba Cloud , Promedio: 4.40
+Curso: Big Data, Artificial Intelligence, and Ethics, Promedio: 4.60
+Curso: Biology Everywhere Foundations, Promedio: 4.50
+Curso: Biology Everywhere Specialization, Promedio: 4.60
+Curso: Biomedical Visualisation, Promedio: 4.60
+Curso: Biostatistics in Public Health  Specialization, Promedio: 4.80
+Curso: Blockchain Basics, Promedio: 4.60
+Curso: Blockchain Platforms, Promedio: 4.60
+Curso: Blockchain Revolution Specialization, Promedio: 4.70
+Curso: Blockchain Revolution in Financial Services Specialization, Promedio: 4.70
+Curso: Blockchain Specialization, Promedio: 4.60
+Curso: Blockchain and Cryptocurrency Explained, Promedio: 4.70
+Curso: Blockchain, Cryptoassets, and Decentralized Finance, Promedio: 4.60
+Curso: Blood Film Morphology - A Practical Guide, Promedio: 4.90
+Curso: Blue Prism Foundation Training, Promedio: 4.60
+Curso: Bookkeeping Basics, Promedio: 4.60
+Curso: Brand New Brand, Promedio: 4.90
+Curso: Brand and Product Management, Promedio: 4.70
+Curso: Branding: The Creative Journey Specialization, Promedio: 4.60
+Curso: Breastfeeding: Public Health Perspectives, Promedio: 4.70
+Curso: Brilliant, Passionate You, Promedio: 4.70
+Curso: Bring Your Story to Life – Video Post-Production, Promedio: 4.60
+Curso: Browser-based Models with TensorFlow.js, Promedio: 4.80
+Curso: Build Dynamic User Interfaces (UI) for Websites, Promedio: 4.80
+Curso: Build Regression, Classification, and Clustering Models, Promedio: 4.20
+Curso: Build Website with HTML, JavaScript, AngularJS, and React Specialization, Promedio: 4.20
+Curso: Build Wireframes and Low-Fidelity Prototypes, Promedio: 4.90
+Curso: Building AI Applications with Watson APIs, Promedio: 4.30
+Curso: Building AI Powered Chatbots Without Programming, Promedio: 4.80
+Curso: Building Batch Data Pipelines on GCP 日本語版, Promedio: 4.40
+Curso: Building Batch Data Pipelines on Google Cloud, Promedio: 4.50
+Curso: Building Database Applications in PHP, Promedio: 4.90
+Curso: Building Deep Learning Models with TensorFlow, Promedio: 4.40
+Curso: Building No-Code Apps with AppSheet Specialization, Promedio: 4.70
+Curso: Building No-Code Apps with AppSheet: Foundations, Promedio: 4.70
+Curso: Building React and ASP.NET MVC 5 Applications Specialization, Promedio: 3.90
+Curso: Building Resilient Streaming Analytics Systems on GCP 日本語版, Promedio: 4.80
+Curso: Building Resilient Streaming Analytics Systems on Google Cloud, Promedio: 4.60
+Curso: Building Scalable Java Microservices with Spring Boot and Spring Cloud, Promedio: 4.30
+Curso: Building Your Career in Music: Developing A Brand and Funding Your Music, Promedio: 4.40
+Curso: Building Your Freelancing Career Specialization, Promedio: 4.90
+Curso: Building a Healthy Plate, Promedio: 4.90
+Curso: Building on the SIR Model, Promedio: 4.60
+Curso: Business Analysis Process, Promedio: 4.70
+Curso: Business Analytics, Promedio: 4.50
+Curso: Business Analytics Specialization, Promedio: 4.60
+Curso: Business Analytics for Decision Making, Promedio: 4.60
+Curso: Business Application of Machine Learning and Artificial Intelligence in Healthcare, Promedio: 4.20
+Curso: Business Foundations Specialization, Promedio: 4.70
+Curso: Business Innovation and Digital Disruption Specialization, Promedio: 4.50
+Curso: Business Intelligence and Competitive Analysis, Promedio: 4.40
+Curso: Business Intelligence and Visual Analytics, Promedio: 4.70
+Curso: Business Models For Sustainability, Promedio: 4.70
+Curso: Business Opportunities and Risks in a Globalized Economy, Promedio: 4.80
+Curso: Business Process Modelling, Promedio: 4.60
+Curso: Business Strategy Specialization, Promedio: 4.80
+Curso: Business Transformation with Google Cloud em Português , Promedio: 4.90
+Curso: Business Transformation with Google Cloud en Español, Promedio: 4.60
+Curso: Business Writing, Promedio: 4.80
+Curso: Business and Financial Modeling Specialization, Promedio: 4.50
+Curso: C Programming for Everybody Specialization, Promedio: 5.00
+Curso: C Programming with Linux Specialization, Promedio: 4.60
+Curso: C Programming: Getting Started - 1, Promedio: 4.60
+Curso: C Programming: Language Foundations - 2, Promedio: 4.70
+Curso: C Programming: Modular Programming and Memory Management - 3, Promedio: 4.80
+Curso: C for Everyone: Programming Fundamentals, Promedio: 4.50
+Curso: C for Everyone: Structured Programming, Promedio: 4.60
+Curso: C# for .NET Developers, Promedio: 4.00
+Curso: C++ Basic Structures: Vectors, Pointers, Strings, and Files, Promedio: 4.60
+Curso: C++ Basics: Selection and Iteration, Promedio: 4.60
+Curso: C++ For C Programmers, Part A, Promedio: 4.40
+Curso: CAM and Design Manufacturing for Mechanical Engineers with Autodesk Fusion 360, Promedio: 4.80
+Curso: COBOL Programming with VSCode, Promedio: 4.70
+Curso: COVID Vaccine Ambassador Training: How to Talk to Parents  , Promedio: 4.90
+Curso: COVID-19 - A clinical update, Promedio: 4.70
+Curso: COVID-19 Contact Tracing, Promedio: 4.90
+Curso: COVID-19: What You Need to Know, Promedio: 4.80
+Curso: CVS Health Call Center Customer Service Professional Certificate, Promedio: 4.70
+Curso: CVS Health Retail Customer Service Professional Certificate, Promedio: 4.50
+Curso: Calculus for Machine Learning and Data Science, Promedio: 4.80
+Curso: Camera and Imaging, Promedio: 4.70
+Curso: Cancer Biology Specialization, Promedio: 4.90
+Curso: Cannabis, Chronic Pain, and Related Disorders, Promedio: 4.70
+Curso: Cannabis, Mental Health, and Brain Disorders, Promedio: 4.70
+Curso: Capstone (React App), Promedio: 4.80
+Curso: Capstone: Applying Project Management in the Real World, Promedio: 4.80
+Curso: Capstone: Retrieving, Processing, and Visualizing Data with Python, Promedio: 4.70
+Curso: Career Discovery Specialization, Promedio: 4.70
+Curso: Career Success Specialization, Promedio: 4.60
+Curso: Caring for Others Specialization, Promedio: 4.80
+Curso: Ceramics and Composites, Promedio: 4.00
+Curso: CertNexus Certified Artificial Intelligence Practitioner Professional Certificate, Promedio: 4.50
+Curso: CertNexus Certified Ethical Emerging Technologist Professional Certificate, Promedio: 4.70
+Curso: Certified Business Analysis Professional™ (CBAP®) Specialization, Promedio: 5.00
+Curso: Certified in Cybersecurity Specialization, Promedio: 4.70
+Curso: Charles Darwin: El origen del evolucionismo moderno, Promedio: 4.80
+Curso: ChatGPT Advanced Data Analysis, Promedio: 4.80
+Curso: Chemical Biology, Promedio: 4.60
+Curso: Children Acquiring Literacy Naturally, Promedio: 4.40
+Curso: Chosen Issues in Holocaust History, Promedio: 4.40
+Curso: Church Administration Theology and Time Management, Promedio: 4.80
+Curso: Ciberseguridad Specialization, Promedio: 4.70
+Curso: Cities and Consumption: Urban Sustainability and the Sharing Economy, Promedio: 4.70
+Curso: Citizenship and the Rule of Law, Promedio: 4.80
+Curso: Climate Adaptation in Africa, Promedio: 4.80
+Curso: Climate Change Mitigation in Developing Countries, Promedio: 4.70
+Curso: Climate Change and Sustainable Investing Specialization, Promedio: 4.70
+Curso: Climate Change, Sustainability, and Global Public Health, Promedio: 4.90
+Curso: Climate Solutions, Promedio: 4.70
+Curso: Clinical Natural Language Processing, Promedio: 3.60
+Curso: Clinical Trials Analysis, Monitoring, and Presentation, Promedio: 4.80
+Curso: Clinical Trials Data Management and Quality Assurance, Promedio: 4.80
+Curso: Clinical Trials Management and Advanced Operations, Promedio: 4.80
+Curso: Clinical Trials Operations Specialization, Promedio: 4.80
+Curso: Clinical Trials: Good Clinical Practice  Specialization, Promedio: 4.70
+Curso: Cloud Application Development Foundations Specialization, Promedio: 4.60
+Curso: Cloud Computing Basics (Cloud 101), Promedio: 4.50
+Curso: Cloud Computing Law Specialization, Promedio: 4.90
+Curso: Cloud Computing Primer for Semi-tech and Business Learners Specialization, Promedio: 4.50
+Curso: Cloud Computing Primer: Infrastructure as a Service (IaaS), Promedio: 4.50
+Curso: Cloud Computing Primer: Software as a Service (SaaS), Promedio: 4.60
+Curso: Cloud Data Security, Promedio: 4.40
+Curso: Cloud Security Basics, Promedio: 4.30
+Curso: Cloud-Native Development with OpenShift and Kubernetes Specialization, Promedio: 4.70
+Curso: Code Free Data Science, Promedio: 4.30
+Curso: Coding Interview Preparation, Promedio: 4.70
+Curso: Coding for Designers, Managers, and Entrepreneurs Specialization, Promedio: 4.30
+Curso: Coding for Everyone: C and C++ Specialization, Promedio: 4.40
+Curso: Cognición, Pensamiento y Lenguaje, Promedio: 4.80
+Curso: Collaborate Effectively for Professional Success, Promedio: 4.50
+Curso: Communicate Effectively about Ethical Challenges in Data-Driven Technologies, Promedio: 4.40
+Curso: Communicating Business Analytics Results, Promedio: 4.50
+Curso: Communication Strategies for a Virtual Age, Promedio: 4.80
+Curso: Communication skills for engineering scholars, Promedio: 4.80
+Curso: Community Organizing for Social Justice , Promedio: 4.80
+Curso: Comparative Health Systems, Promedio: 4.60
+Curso: Compartir datos a través del arte de la visualización, Promedio: 4.70
+Curso: Compassionate Leadership Through Service Learning with Jane Goodall and Roots & Shoots, Promedio: 4.80
+Curso: Compensation and Benefits, Promedio: 4.80
+Curso: Competencias para la empleabilidad, Promedio: 4.80
+Curso: Competencias y recursos básicos para entornos digitales, Promedio: 4.90
+Curso: Competitive Strategy, Promedio: 4.80
+Curso: Compliance and Risk Management, Promedio: 4.50
+Curso: Comprender las dimensiones interculturales en la cotidianidad, Promedio: 4.80
+Curso: Computational Social Science Methods, Promedio: 4.70
+Curso: Computational Social Science Specialization, Promedio: 4.70
+Curso: Computer Forensics Specialization, Promedio: 4.80
+Curso: Computer Hardware and Software, Promedio: 4.40
+Curso: Computer Networking, Promedio: 4.20
+Curso: Computer Vision for Engineering and Science Specialization, Promedio: 4.70
+Curso: Computer Vision in Microsoft Azure, Promedio: 4.70
+Curso: Computer Vision with Embedded Machine Learning, Promedio: 4.80
+Curso: Computer and Peripheral Hardware, Promedio: 4.60
+Curso: Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python, Promedio: 4.70
+Curso: Comunicación efectiva para el líder actual, Promedio: 4.80
+Curso: Comunicación, experimentación y aprendizaje en liderazgo, Promedio: 4.80
+Curso: Concepts, Strategies, and Analytics in Performance Marketing and Digital Advertising Specialization, Promedio: 4.60
+Curso: Conduct UX Research and Test Early Concepts, Promedio: 4.80
+Curso: Conexión y protección: Redes y seguridad de redes, Promedio: 4.90
+Curso: Configuration Management and the Cloud, Promedio: 4.70
+Curso: Confronting The Big Questions: Highlights of Modern Astronomy, Promedio: 4.60
+Curso: Connect Your Services with Microsoft Azure Service Bus, Promedio: 4.60
+Curso: Connect and Protect: Networks and Network Security, Promedio: 4.80
+Curso: Connected Leadership, Promedio: 4.80
+Curso: Connected Planning for Business Transformation Specialization, Promedio: 4.90
+Curso: Conspiracy Planet, Promedio: 4.50
+Curso: Construction Cost Estimating and Cost Control, Promedio: 4.70
+Curso: Construction Finance, Promedio: 4.80
+Curso: Construction Management Specialization, Promedio: 4.80
+Curso: Construction Project Management, Promedio: 4.80
+Curso: Construction Scheduling, Promedio: 4.80
+Curso: Constructores de Paz, Promedio: 4.90
+Curso: Contact Center AI: Conversational Design Fundamentals, Promedio: 4.50
+Curso: Contact Center AI: Operations and Implementation, Promedio: 4.60
+Curso: Containerized Applications on AWS, Promedio: 4.60
+Curso: Contenido de las matemáticas de primaria, Promedio: 4.90
+Curso: Content Strategy for Professionals Specialization, Promedio: 4.60
+Curso: Continuous Delivery & DevOps , Promedio: 4.60
+Curso: Continuous Integration and Continuous Delivery (CI/CD), Promedio: 4.80
+Curso: Control of Nonlinear Spacecraft Attitude Motion, Promedio: 4.70
+Curso: Converter Circuits, Promedio: 4.80
+Curso: Converter Control, Promedio: 4.80
+Curso: Convolutional Neural Networks in TensorFlow, Promedio: 4.70
+Curso: Cooking for Busy Healthy People, Promedio: 4.60
+Curso: Copyright Law in the Music Business, Promedio: 4.80
+Curso: Core 1: Hardware and Network Troubleshooting, Promedio: 4.70
+Curso: Core Java Specialization, Promedio: 4.60
+Curso: Cost Accounting Specialization, Promedio: 4.70
+Curso: Cost and Economics in Pricing Strategy, Promedio: 4.80
+Curso: Crash Course on Python, Promedio: 4.80
+Curso: Create High-Fidelity Designs and Prototypes in Figma, Promedio: 4.80
+Curso: Create Machine Learning Models in Microsoft Azure, Promedio: 4.60
+Curso: Create and Lead an Ethical Data-Driven Organization, Promedio: 4.60
+Curso: Creating Behavioral Change, Promedio: 4.80
+Curso: Creating Business Value with Data and Looker Specialization, Promedio: 4.70
+Curso: Creating Toolpaths for a CNC Lathe, Promedio: 4.80
+Curso: Creating a Business Value with Data and Looker 日本語版 Specialization, Promedio: 4.20
+Curso: Creative Design, Prototyping, and Testing, Promedio: 4.10
+Curso: Creative Designing in Power BI , Promedio: 4.30
+Curso: Creative Thinking: Techniques and Tools for Success, Promedio: 4.70
+Curso: Creativity and AI Specialization, Promedio: 4.60
+Curso: Credit Risk Management: Frameworks and Strategies, Promedio: 4.60
+Curso: Critical Thinking Skills for the Professional, Promedio: 4.80
+Curso: Cuidando a la persona en situación crítica de salud en UCI, Promedio: 4.90
+Curso: Culture-Driven Team Building Specialization, Promedio: 4.60
+Curso: Cultures et pédagogies, Promedio: 4.70
+Curso: Curanderismo: Global & Cultural Influences of Traditional Healing , Promedio: 4.70
+Curso: Curanderismo: Traditional Healing Using Plants, Promedio: 4.70
+Curso: Curanderismo: Traditional Healing of the Body, Promedio: 4.70
+Curso: Curanderismo: Traditional Healing of the Mind, Energy & Spirit, Promedio: 4.80
+Curso: Curanderismo:Influencias Globales de la Medicina Tradicional, Promedio: 4.90
+Curso: Current Gen 3D Game Prop Production, Promedio: 4.80
+Curso: Current-Mode Control, Promedio: 4.90
+Curso: Cursos en línea: modelo para armar, Promedio: 4.80
+Curso: Customer Relationship Management, Promedio: 4.50
+Curso: Customer Value in Pricing Strategy, Promedio: 4.80
+Curso: Cyber Security – Technology and Governance Specialization, Promedio: 5.00
+Curso: Cyber-Physical Systems: Modeling and Simulation, Promedio: 4.60
+Curso: Cybersecurity Attack and Defense Fundamentals Specialization, Promedio: 4.60
+Curso: Cybersecurity Awareness and Innovation, Promedio: 4.60
+Curso: Cybersecurity Compliance Framework & System Administration, Promedio: 4.70
+Curso: Cybersecurity Foundations for Risk Management, Promedio: 4.60
+Curso: Cybersecurity Fundamentals Specialization, Promedio: 4.80
+Curso: Cybersecurity Job Search and Interviews: Getting Started, Promedio: 4.80
+Curso: Cybersecurity Management and Compliance, Promedio: 4.70
+Curso: Cybersecurity Operations Fundamentals Specialization, Promedio: 4.80
+Curso: Cybersecurity Threat Vectors and Mitigation, Promedio: 4.70
+Curso: Cybersecurity Tools and Technologies, Promedio: 4.70
+Curso: Cybersecurity for Data Science, Promedio: 3.60
+Curso: Cybersecurity for Managers, Promedio: 4.70
+Curso: Cybersecurity for Tech Professionals, Promedio: 4.70
+Curso: Cybersecurity in Healthcare (Hospitals & Care Centres), Promedio: 4.60
+Curso: Cómo entrenar a tus electrones 1: Fundamentos de la electrónica analógica, Promedio: 4.70
+Curso: DDHH y democracia: una visión desde América Latina, Promedio: 4.90
+Curso: Data & Cybersecurity, Promedio: 4.80
+Curso: Data Analysis Using Python, Promedio: 4.50
+Curso: Data Analysis and Visualization Foundations Specialization, Promedio: 4.80
+Curso: Data Analysis and Visualization with Power BI, Promedio: 4.60
+Curso: Data Analysis with Python, Promedio: 4.70
+Curso: Data Analysis with R, Promedio: 4.70
+Curso: Data Analysis with R Programming, Promedio: 4.80
+Curso: Data Analysis with R Specialization, Promedio: 4.70
+Curso: Data Analyst Career Guide and Interview Preparation, Promedio: 4.60
+Curso: Data Analytics in the Public Sector with R Specialization, Promedio: 4.80
+Curso: Data Collection and Processing with Python, Promedio: 4.70
+Curso: Data Collection: Online, Telephone and Face-to-face, Promedio: 4.60
+Curso: Data Engineering Career Guide and Interview Preparation, Promedio: 4.60
+Curso: Data Engineering Foundations Specialization, Promedio: 4.70
+Curso: Data Integration with Microsoft Azure Data Factory, Promedio: 3.90
+Curso: Data Mining Foundations and Practice Specialization, Promedio: 3.60
+Curso: Data Modeling in Power BI, Promedio: 4.20
+Curso: Data Privacy Fundamentals, Promedio: 4.80
+Curso: Data Processing with Azure, Promedio: 3.70
+Curso: Data Science Ethics, Promedio: 4.70
+Curso: Data Science Fundamentals for Data Analysts, Promedio: 4.20
+Curso: Data Science Fundamentals with Python and SQL Specialization, Promedio: 4.60
+Curso: Data Science Methodology, Promedio: 4.60
+Curso: Data Science Methods for Quality Improvement Specialization, Promedio: 4.60
+Curso: Data Science Project: MATLAB for the Real World, Promedio: 4.80
+Curso: Data Science Specialization, Promedio: 4.50
+Curso: Data Science and Analysis Tools - from Jupyter to R Markdown Specialization, Promedio: 3.50
+Curso: Data Science as a Field, Promedio: 4.20
+Curso: Data Science con Python e R Specialization, Promedio: 4.40
+Curso: Data Science for Business Innovation, Promedio: 4.30
+Curso: Data Science with Databricks for Data Analysts Specialization, Promedio: 4.40
+Curso: Data Science with R - Capstone Project, Promedio: 4.60
+Curso: Data Science: Foundations using R Specialization, Promedio: 4.60
+Curso: Data Science: Statistics and Machine Learning Specialization, Promedio: 4.60
+Curso: Data Storage in Microsoft Azure, Promedio: 4.30
+Curso: Data Structures & Backend with Java, Promedio: 4.30
+Curso: Data Structures and Algorithms Specialization, Promedio: 4.60
+Curso: Data Visualization and Dashboards with Excel and Cognos, Promedio: 4.70
+Curso: Data Visualization with Python, Promedio: 4.50
+Curso: Data Visualization with R, Promedio: 4.60
+Curso: Data Visualization with Tableau, Promedio: 4.80
+Curso: Data Visualization with Tableau Specialization, Promedio: 4.50
+Curso: Data Warehousing and Business Intelligence, Promedio: 4.50
+Curso: Data Wrangling, Analysis and AB Testing with SQL, Promedio: 3.30
+Curso: Data, Security, and Privacy, Promedio: 4.60
+Curso: Data-Driven Animation for Science Communication, Promedio: 4.80
+Curso: Data-Driven Decision Making (DDDM) Specialization, Promedio: 4.60
+Curso: DataOps Methodology , Promedio: 4.70
+Curso: Database Clients, Promedio: 4.30
+Curso: Database Design and Basic SQL in PostgreSQL, Promedio: 4.80
+Curso: Database Design and Operational Business Intelligence Specialization, Promedio: 4.50
+Curso: Database Engineer Capstone, Promedio: 3.80
+Curso: Database Structures and Management with MySQL, Promedio: 4.80
+Curso: Databases and SQL for Data Science with Python, Promedio: 4.60
+Curso: Databases for Data Scientists Specialization, Promedio: 4.70
+Curso: De-Mystifying Mindfulness, Promedio: 4.80
+Curso: Decentralized Finance (DeFi) Infrastructure, Promedio: 4.80
+Curso: Decentralized Finance (DeFi) Primitives, Promedio: 4.90
+Curso: Decentralized Finance (DeFi): The Future of Finance Specialization, Promedio: 4.80
+Curso: Decision-Making: Blending Art & Science, Promedio: 4.80
+Curso: Decisions, Decisions: Dashboards and Reports, Promedio: 4.80
+Curso: Deep Learning Specialization, Promedio: 4.90
+Curso: Deep Neural Networks with PyTorch, Promedio: 4.40
+Curso: Deep Time: Discovering an Ancient Earth, Promedio: 4.80
+Curso: DeepLearning.AI TensorFlow Developer Professional Certificate, Promedio: 4.70
+Curso: Delivering Quality Work with Agility, Promedio: 4.60
+Curso: Dense Gases, Liquids and Solids, Promedio: 4.50
+Curso: Density Functional Theory, Promedio: 4.90
+Curso: Dentistry 101, Promedio: 4.80
+Curso: Deploy a website to Azure with Azure App Service, Promedio: 4.80
+Curso: Deploy and Maintain Power BI Assets and Capstone project, Promedio: 4.00
+Curso: Deploying SAP on Google Cloud, Promedio: 4.60
+Curso: Desarrolla tu líder, Promedio: 4.90
+Curso: Desarrollador back-end de Meta Professional Certificate, Promedio: 4.50
+Curso: Desarrollador de Meta de Android Professional Certificate, Promedio: 4.60
+Curso: Desarrollador front-end de Meta Professional Certificate, Promedio: 4.60
+Curso: Desarrollo de Videojuegos 3D en Unity: Una Introducción, Promedio: 4.20
+Curso: Design Computing: 3D Modeling in Rhinoceros with Python/Rhinoscript, Promedio: 4.90
+Curso: Design Thinking Specialization, Promedio: 4.70
+Curso: Design Thinking for Innovation, Promedio: 4.70
+Curso: Design Thinking for the Greater Good: Innovation in the Social Sector, Promedio: 4.70
+Curso: Design Thinking: Insights to Inspiration , Promedio: 4.60
+Curso: Design a User Experience for Social Good & Prepare for Jobs, Promedio: 4.90
+Curso: Design and Conduct of Clinical Trials, Promedio: 4.70
+Curso: Design de uma experiência do usuário para o bem social e preparação para o mercado, Promedio: 4.90
+Curso: Design for Additive Manufacturing, Promedio: 4.90
+Curso: Design of Experiments Specialization, Promedio: 4.70
+Curso: Design of High-Performance Optical Systems, Promedio: 4.60
+Curso: Designing Effective Science Communication, Promedio: 4.50
+Curso: Designing Learning Innovation, Promedio: 4.90
+Curso: Designing User Interfaces and Experiences (UI/UX), Promedio: 4.60
+Curso: Detect and Mitigate Ethical Risks, Promedio: 4.50
+Curso: DevOps on AWS Specialization, Promedio: 4.70
+Curso: DevOps on AWS: Code, Build, and Test, Promedio: 4.60
+Curso: DevOps, Cloud, and Agile Foundations Specialization, Promedio: 4.80
+Curso: DevOps, DataOps, MLOps, Promedio: 3.70
+Curso: DevOps: Introduction to Developer Operations Specialization, Promedio: 3.50
+Curso: Developing AI Applications on Azure, Promedio: 4.40
+Curso: Developing AI Applications with Python and Flask, Promedio: 4.30
+Curso: Developing APIs with Google Cloud's Apigee API Platform Specialization, Promedio: 4.70
+Curso: Developing Applications in Python on AWS, Promedio: 4.80
+Curso: Developing Applications with Google Cloud Specialization, Promedio: 4.70
+Curso: Developing Back-End Apps with Node.js and Express, Promedio: 4.40
+Curso: Developing Cloud Apps with Node.js and React, Promedio: 4.00
+Curso: Developing Data Models with LookML, Promedio: 4.70
+Curso: Developing Front-End Apps with React, Promedio: 4.30
+Curso: Developing Innovative Ideas for Product Leaders, Promedio: 4.40
+Curso: Developing Interpersonal Skills , Promedio: 4.70
+Curso: Developing Your Musicianship Specialization, Promedio: 4.90
+Curso: Developing Your Musicianship: Final Project, Promedio: 4.90
+Curso: Developing a Google SRE Culture, Promedio: 4.70
+Curso: Developing the SIR Model, Promedio: 4.80
+Curso: Diagnóstico y tratamiento del dolor neuropático en atención primaria, Promedio: 4.80
+Curso: Differential Calculus through Data and Modeling Specialization, Promedio: 4.80
+Curso: Differential Equations for Engineers, Promedio: 4.90
+Curso: Digital Business Specialization, Promedio: 4.50
+Curso: Digital Business Strategy, Promedio: 4.70
+Curso: Digital Channel Planning and E-Commerce Strategy, Promedio: 4.60
+Curso: Digital Content Planning and Management, Promedio: 4.60
+Curso: Digital Fashion Innovation Specialization, Promedio: 4.60
+Curso: Digital Fashion Mindset, Promedio: 4.60
+Curso: Digital Fashion Reality, Promedio: 4.50
+Curso: Digital Forensics Concepts, Promedio: 4.80
+Curso: Digital Forensics Essentials (DFE), Promedio: 4.80
+Curso: Digital Information Literacy, Promedio: 4.60
+Curso: Digital Marketing Analytics in Theory, Promedio: 4.50
+Curso: Digital Product Management Specialization, Promedio: 4.80
+Curso: Digital Product Management: Modern Fundamentals, Promedio: 4.70
+Curso: Digital Signal Processing 1: Basic Concepts and Algorithms, Promedio: 4.50
+Curso: Digital Signal Processing 2: Filtering, Promedio: 4.70
+Curso: Digital Signal Processing 3: Analog vs Digital, Promedio: 4.80
+Curso: Digital Signal Processing 4: Applications, Promedio: 4.70
+Curso: Digital Signal Processing Specialization, Promedio: 4.60
+Curso: Digital Strategy and Business Opportunity, Promedio: 4.60
+Curso: Digital Technologies and the Future of Manufacturing  Specialization, Promedio: 4.60
+Curso: Digital Transformation, Promedio: 4.80
+Curso: Digital Transformation with Google Cloud, Promedio: 4.80
+Curso: Digital Twins, Promedio: 4.70
+Curso: Digitalisation in Aeronautics, Promedio: 4.60
+Curso: Digitalisation in Aeronautics and Space Specialization, Promedio: 4.70
+Curso: Digitalisation in Space Research, Promedio: 4.70
+Curso: Digitalisation in the Aerospace Industry, Promedio: 4.60
+Curso: Diode - pn Junction and Metal Semiconductor Contact, Promedio: 4.50
+Curso: Dirección y Gestión de Negocios Specialization, Promedio: 4.60
+Curso: Disability Inclusion in Education: Building Systems of Support , Promedio: 4.80
+Curso: Disaster Risk Management and Korean Policies, Promedio: 4.70
+Curso: Disease Clusters, Promedio: 4.70
+Curso: Diseñar una experiencia del usuario de una iniciativa de interés público y prepararse para el trabajo, Promedio: 4.80
+Curso: Diseño Instruccional: Aprendizaje activo y Pedagogía digital Specialization, Promedio: 4.70
+Curso: Diseño de Actividades con PhET para la Educación STEM, Promedio: 5.00
+Curso: Diseño de Experiencia del Usuario (UX) de Google Professional Certificate, Promedio: 4.90
+Curso: Diseño de Proyectos de Desarrollo, Promedio: 4.80
+Curso: Diseño instruccional para el aprendizaje activo , Promedio: 4.70
+Curso: Diseño y Gestión de Proyectos de Desarrollo Specialization, Promedio: 4.80
+Curso: Displays, Promedio: 4.20
+Curso: Distributed Computing with Spark SQL, Promedio: 4.50
+Curso: Diversity and Inclusion for HR Professionals, Promedio: 4.70
+Curso: Diversity, Equity & Inclusion, Promedio: 4.80
+Curso: Diversity, Equity, and Inclusion for Organizational Leaders Specialization, Promedio: 5.00
+Curso: Django Application Development with SQL and Databases, Promedio: 4.50
+Curso: Django Web Framework , Promedio: 4.70
+Curso: Django for Everybody Specialization, Promedio: 4.70
+Curso: Driving business towards the Sustainable Development Goals, Promedio: 4.80
+Curso: Drones for Environmental Science, Promedio: 4.90
+Curso: Dynamic Programming, Greedy Algorithms, Promedio: 4.50
+Curso: Dynamic Public Speaking Specialization, Promedio: 4.80
+Curso: Début du processus de conception UX : Empathie, définition et formulation d’idées, Promedio: 4.70
+Curso: E-Business: Negocios Online, Promedio: 4.70
+Curso: E-Marketing Specialization, Promedio: 4.70
+Curso: ESG Investing: Financial Decisions in Flux Specialization, Promedio: 4.60
+Curso: ETL and Data Pipelines with Shell, Airflow and Kafka, Promedio: 4.50
+Curso: Earth Economics, Promedio: 4.70
+Curso: Econometrics for Economists and Finance Practitioners Specialization, Promedio: 3.20
+Curso: Economics: Society, Markets, and [In]equality, Promedio: 4.80
+Curso: Economía y Finanzas de Empresas, Promedio: 4.70
+Curso: Ecosystems of California, Promedio: 4.70
+Curso: Edible Insects, Promedio: 4.90
+Curso: Educación ambiental para la biodiversidad, Promedio: 4.80
+Curso: Educación en Contextos Rurales: Perspectivas en América Latina, Promedio: 4.80
+Curso: Educating Deaf Children: Becoming an Empowered Teacher, Promedio: 4.90
+Curso: Effective Communication: Writing, Design, and Presentation Specialization, Promedio: 4.80
+Curso: Effective Problem-Solving and Decision-Making, Promedio: 4.60
+Curso: Effective Programming in Scala, Promedio: 4.70
+Curso: El ABC de la sostenibilidad , Promedio: 4.80
+Curso: El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho, Promedio: 4.90
+Curso: El Holocausto: el abismo de la humanidad, Promedio: 5.00
+Curso: El trabajo por proyectos en escuelas de contextos rurales, Promedio: 4.80
+Curso: Elastic Cloud Infrastructure: Scaling and Automation 日本語版, Promedio: 4.50
+Curso: Elastic Google Cloud Infrastructure: Scaling and Automation, Promedio: 4.70
+Curso: Electric Vehicle Sensors, Promedio: 4.20
+Curso: Electrical Properties and Semiconductors, Promedio: 4.20
+Curso: Electronic Music Production Specialization, Promedio: 4.80
+Curso: Embajador de la Vacuna COVID: Cómo Hablar con los Padres, Promedio: 4.90
+Curso: Embedded Interface Design Specialization, Promedio: 4.00
+Curso: Embedded Software and Hardware Architecture, Promedio: 4.50
+Curso: Embedding Sensors and Motors Specialization, Promedio: 4.60
+Curso: Emotional Intelligence: Cultivating Immensely Human Interactions, Promedio: 4.70
+Curso: Employee Relations, Promedio: 4.60
+Curso: Empowering Yourself in a Post-Truth World, Promedio: 4.40
+Curso: Encoder-Decoder Architecture, Promedio: 4.00
+Curso: Energy Harvesting, Promedio: 4.40
+Curso: Energy management for real estate. Methods and digital tools, Promedio: 4.50
+Curso: Engineering Health: Introduction to Yoga and Physiology, Promedio: 4.80
+Curso: Engineering and Product Design Processes, Promedio: 4.60
+Curso: Engineering of Structures: Response of Structures, Promedio: 5.00
+Curso: Engineering of Structures: Tension, Promedio: 4.90
+Curso: English Language Skills A2-B1 CEFR: Low-Intermediate Specialization, Promedio: 4.60
+Curso: English Lower Intermediate B1.1, Promedio: 4.10
+Curso: Enseñar, aprender y evaluar en Escuelas Rurales, Promedio: 4.80
+Curso: Entendiendo la depresión a lo largo del ciclo vital, Promedio: 4.90
+Curso: Enterprise Database Migration, Promedio: 4.50
+Curso: Enterprise Systems, Promedio: 4.80
+Curso: Entrepreneurial Finance: Strategy and Innovation Specialization, Promedio: 4.50
+Curso: Entrepreneurship: Growing Your Business Specialization, Promedio: 4.80
+Curso: Environmental Hazards and Global Public Health, Promedio: 4.80
+Curso: Environmental Health: the Foundation of Global Public Health, Promedio: 4.70
+Curso: Epidemiology for Public Health Specialization, Promedio: 4.80
+Curso: Epidemiology in Public Health Practice Specialization, Promedio: 4.70
+Curso: Equivalent Circuit Cell Model Simulation, Promedio: 4.70
+Curso: Escritura académica. Estilos de citación y referenciación., Promedio: 4.90
+Curso: Esports Specialization, Promedio: 4.50
+Curso: Essential Cloud Infrastructure: Core Services 日本語版, Promedio: 4.50
+Curso: Essential Cloud Infrastructure: Foundation - Español, Promedio: 4.80
+Curso: Essential Cloud Infrastructure: Foundation - 日本語版, Promedio: 4.60
+Curso: Essential Epidemiologic Tools for Public Health Practice, Promedio: 4.70
+Curso: Essential Google Cloud Infrastructure: Core Services, Promedio: 4.70
+Curso: Essential Google Cloud Infrastructure: Foundation, Promedio: 4.70
+Curso: Essential Linear Algebra for Data Science, Promedio: 4.50
+Curso: Essential Skills for Your Career Development, Promedio: 4.60
+Curso: Essentials of Management and Strategic Planning, Promedio: 4.70
+Curso: Essentials of Palliative Care, Promedio: 4.60
+Curso: Establishing Product-Market Fit, Promedio: 4.50
+Curso: Estilos de Liderazgo: opciones para avanzar en desafíos complejos, Promedio: 4.90
+Curso: Estimación de la línea base de tiempos y costos, Promedio: 4.90
+Curso: Ethical Hacking Essentials (EHE), Promedio: 4.60
+Curso: Ethical Issues in Data Science, Promedio: 4.60
+Curso: Ethical Leadership Specialization, Promedio: 4.90
+Curso: Ethical Leadership Through Giving Voice to Values, Promedio: 4.70
+Curso: Ethics in Engineering, Promedio: 4.80
+Curso: Ethics in the Age of AI Specialization, Promedio: 4.70
+Curso: Ethics of Artificial Intelligence, Promedio: 4.70
+Curso: Ethics of Psychological Research, Promedio: 4.90
+Curso: European Business Law  Specialization, Promedio: 4.80
+Curso: European Business Law: Competing in Europe, Promedio: 4.80
+Curso: European Business Law: Doing Business in Europe, Promedio: 4.80
+Curso: European Business Law: Understanding the Fundamentals, Promedio: 4.80
+Curso: Evaluating Large-Scale Health Programs Specialization, Promedio: 4.20
+Curso: Evaluating the Quality of Healthcare Delivery, Promedio: 4.60
+Curso: Evaluations of AI Applications in Healthcare, Promedio: 4.60
+Curso: Everyday Excel Specialization, Promedio: 4.70
+Curso: Everyday Excel, Part 1, Promedio: 4.70
+Curso: Everyday Excel, Part 2, Promedio: 4.80
+Curso: Exam Prep AZ-104: Microsoft Azure Administrator Associate Specialization, Promedio: 3.80
+Curso: Exam Prep: AWS Certified Cloud Practitioner Foundations, Promedio: 4.50
+Curso: Exam Prep: AWS Certified Solutions Architect - Associate, Promedio: 4.70
+Curso: Excel Basics for Data Analysis, Promedio: 4.80
+Curso: Excel Fundamentals for Data Analysis, Promedio: 4.80
+Curso: Excel Skills for Business Specialization, Promedio: 4.90
+Curso: Excel/VBA for Creative Problem Solving, Part 1, Promedio: 4.80
+Curso: Executive Data Science Specialization, Promedio: 4.50
+Curso: Expanding SEL, Promedio: 4.80
+Curso: Experiencing Design: Deepening Your Design Thinking Practice, Promedio: 4.90
+Curso: Experimental Design Basics, Promedio: 4.70
+Curso: Explore Core Data Concepts in Microsoft Azure, Promedio: 4.80
+Curso: Exploring Data Transformation with Google Cloud, Promedio: 4.80
+Curso: Exploring Emerging Technologies for Lifelong Learning and Success, Promedio: 4.30
+Curso: Exploring Our Responses to Climate Change Specialization, Promedio: 4.80
+Curso: Exploring Piano Literature: The Piano Sonata Specialization, Promedio: 4.90
+Curso: Exploring Renewable Energy Schemes, Promedio: 4.70
+Curso: Expressway to Data Science: Essential Math Specialization, Promedio: 4.50
+Curso: Expressway to Data Science: Python Programming Specialization, Promedio: 4.70
+Curso: Expressway to Data Science: R Programming and Tidyverse Specialization, Promedio: 4.20
+Curso: Extended Reality for Everybody Specialization, Promedio: 4.70
+Curso: Extinctions: Past, Present, & Future, Promedio: 4.80
+Curso: Extract, Transform and Load Data in Power BI, Promedio: 4.40
+Curso: FPGA Capstone:  Building FPGA Projects, Promedio: 4.60
+Curso: FPGA Design for Embedded Systems Specialization, Promedio: 4.50
+Curso: FPGA Softcore Processors and IP Acquisition, Promedio: 3.90
+Curso: Faire preuve de prudence : gestion des risques de sécurité, Promedio: 4.30
+Curso: Fandom and Popular Culture in the Digital Age Specialization, Promedio: 4.90
+Curso: Fandom, Social Media, and Authenticity in the Digital Age, Promedio: 4.70
+Curso: Fashion Design, Promedio: 4.60
+Curso: Fashion Retail Transformation, Promedio: 4.70
+Curso: Fashion Systems, Promedio: 4.70
+Curso: Fazer perguntas para tomar decisões com base em dados, Promedio: 4.80
+Curso: Feedback Loops: How to Give & Receive High-Quality Feedback Specialization, Promedio: 4.60
+Curso: Feminism and Social Justice, Promedio: 4.80
+Curso: Fibonacci Numbers and the Golden Ratio, Promedio: 4.80
+Curso: Finance & Quantitative Modeling for Analysts Specialization, Promedio: 4.50
+Curso: Finance for Technical Managers Specialization, Promedio: 4.60
+Curso: Financial Accounting Fundamentals, Promedio: 4.80
+Curso: Financial Engineering and Risk Management Specialization, Promedio: 4.50
+Curso: Financial Statement Analysis, Promedio: 4.50
+Curso: Financial Technology (Fintech) Innovations Specialization, Promedio: 4.70
+Curso: Financing and Initiating Major Engineering Projects, Promedio: 4.80
+Curso: Finding Purpose and Meaning In Life: Living for What Matters Most, Promedio: 4.80
+Curso: Finding Your Professional Voice: Confidence & Impact, Promedio: 4.70
+Curso: Fintech Startups in Emerging Markets Specialization, Promedio: 4.60
+Curso: Fintech: Foundations & Applications of Financial Technology Specialization, Promedio: 4.60
+Curso: First Order Optical System Design, Promedio: 4.30
+Curso: First Principles of Computer Vision Specialization, Promedio: 4.80
+Curso: Fitting Statistical Models to Data with Python, Promedio: 4.40
+Curso: Flight Mechanics - Anemobarometry, Promedio: 4.90
+Curso: Flight mechanics - Lift and trajectory, Promedio: 4.80
+Curso: Flight mechanics - Propulsive balance and energy, Promedio: 4.70
+Curso: Flight mechanics - The basis, Promedio: 4.70
+Curso: Fondamentaux de la cybersécurité, Promedio: 4.80
+Curso: Fondamentaux de l’infographie, Promedio: 4.20
+Curso: Food Sustainability, Mindful Eating, and Healthy Cooking Specialization, Promedio: 4.80
+Curso: Formadores de Ciudadanía, Promedio: 4.90
+Curso: Formula preguntas para tomar decisiones basadas en datos, Promedio: 4.80
+Curso: Foundation of Structural Dynamics, Promedio: 3.80
+Curso: Foundational Finance for Strategic Decision Making Specialization, Promedio: 4.80
+Curso: Foundational Skills for Communicating About Health, Promedio: 4.70
+Curso: Foundations for Interviewing with Confidence, Promedio: 4.50
+Curso: Foundations of Business Intelligence, Promedio: 4.70
+Curso: Foundations of Business Strategy, Promedio: 4.80
+Curso: Foundations of Computer Science, Promedio: 4.60
+Curso: Foundations of Cybersecurity, Promedio: 4.90
+Curso: Foundations of Data Science, Promedio: 4.70
+Curso: Foundations of Data Science: K-Means Clustering in Python, Promedio: 4.60
+Curso: Foundations of Data Structures and Algorithms Specialization, Promedio: 4.70
+Curso: Foundations of Digital Marketing and E-commerce, Promedio: 4.80
+Curso: Foundations of Health Equity Research, Promedio: 4.80
+Curso: Foundations of Information Systems for Business, Promedio: 4.70
+Curso: Foundations of Positive Psychology  Specialization, Promedio: 4.80
+Curso: Foundations of Project Management, Promedio: 4.90
+Curso: Foundations of Public Health Practice: The Public Health Toolkit , Promedio: 4.50
+Curso: Foundations of Quantum Mechanics, Promedio: 4.40
+Curso: Foundations of Software Testing and Validation, Promedio: 4.60
+Curso: Foundations of Sports Analytics: Data, Representation, and Models in Sports, Promedio: 4.40
+Curso: Foundations of User Experience (UX) Design, Promedio: 4.80
+Curso: Foundations: Data, Data, Everywhere, Promedio: 4.80
+Curso: Fractal Data Science  Professional Certificate, Promedio: 4.40
+Curso: From Excel to Power BI, Promedio: 4.40
+Curso: From Likes to Leads: Interact with Customers Online, Promedio: 4.80
+Curso: From the Big Bang to Dark Energy, Promedio: 4.80
+Curso: Front-End Developer Capstone , Promedio: 4.50
+Curso: Frontend Development using React  Specialization, Promedio: 3.20
+Curso: Frontend for Java Full Stack Development, Promedio: 4.40
+Curso: Frontiers in Dentistry, Promedio: 4.90
+Curso: Frozen in the Ice: Exploring the Arctic, Promedio: 4.80
+Curso: Full Stack Cloud Development Capstone Project, Promedio: 4.30
+Curso: Full Stack Software Developer Assessment, Promedio: 4.70
+Curso: Full Stack Web Development en Español Specialization, Promedio: 4.20
+Curso: Functional Programming Principles in Scala, Promedio: 4.80
+Curso: Functional Programming Principles in Scala (Scala 2 version), Promedio: 4.80
+Curso: Functional Programming in Scala Specialization, Promedio: 4.70
+Curso: Fundamental Skills in Bioinformatics, Promedio: 4.60
+Curso: Fundamental Skills in Engineering Design, Promedio: 4.70
+Curso: Fundamentals for Implementing a Hypertension Program, Promedio: 4.90
+Curso: Fundamentals of Audio and Music Engineering: Part 1 Musical Sound & Electronics, Promedio: 4.60
+Curso: Fundamentals of Business Analysis , Promedio: 4.50
+Curso: Fundamentals of Equities, Promedio: 4.40
+Curso: Fundamentals of Flight mechanics Specialization, Promedio: 4.80
+Curso: Fundamentals of GIS, Promedio: 4.80
+Curso: Fundamentals of Graphic Design, Promedio: 4.80
+Curso: Fundamentals of Java Programming, Promedio: 4.30
+Curso: Fundamentals of Machine Learning for Healthcare, Promedio: 4.80
+Curso: Fundamentals of Macroscopic and Microscopic Thermodynamics, Promedio: 4.30
+Curso: Fundamentals of Project Planning and Management, Promedio: 4.70
+Curso: Fundamentals of Red Hat Enterprise Linux, Promedio: 4.80
+Curso: Fundamentals of Reinforcement Learning, Promedio: 4.80
+Curso: Fundamentals of Software Architecture for Big Data, Promedio: 3.30
+Curso: Fundamentals of Technology Sales, Promedio: 4.70
+Curso: Fundamentals of Visualization with Tableau, Promedio: 4.50
+Curso: Fundamentals of financial and management accounting, Promedio: 4.70
+Curso: Fundamentals of particle accelerator technology  (NPAP MOOC), Promedio: 4.60
+Curso: Fundamentos de la ciberseguridad, Promedio: 4.90
+Curso: Fundamentos de la escritura, Promedio: 4.70
+Curso: Fundamentos de la gestión de proyectos, Promedio: 4.90
+Curso: Fundamentos de la gestión del talento humano, Promedio: 4.80
+Curso: Fundamentos del marketing digital y comercio electrónico, Promedio: 4.90
+Curso: Fundamentos do design da experiência do usuário (UX), Promedio: 4.90
+Curso: Fundamentos do gerenciamento de projetos, Promedio: 4.90
+Curso: Fundamentos: dados, dados, em todos os lugares, Promedio: 4.90
+Curso: Future Ready Company Specialization, Promedio: 4.90
+Curso: Futures Thinking Specialization, Promedio: 4.80
+Curso: GIS Data Formats, Design and Quality, Promedio: 4.80
+Curso: GPT Vision: Seeing the World through Generative AI, Promedio: 4.50
+Curso: Game Design and Development with Unity 2020 Specialization, Promedio: 4.70
+Curso: Game Design: Art and Concepts Specialization, Promedio: 4.70
+Curso: GenAI for Everyone, Promedio: 4.10
+Curso: Gender Analytics for Innovation, Promedio: 4.80
+Curso: Gender Analytics: Gender Equity through Inclusive Design Specialization, Promedio: 4.90
+Curso: Generalized Linear Models and Nonparametric Regression, Promedio: 4.30
+Curso: Generative AI Essentials: Overview and Impact, Promedio: 4.70
+Curso: Generative AI Fundamentals Specialization, Promedio: 4.70
+Curso: Generative AI Primer, Promedio: 4.70
+Curso: Generative AI for Data Scientists Specialization, Promedio: 4.80
+Curso: Generative AI for Everyone, Promedio: 4.90
+Curso: Generative AI for Software Developers Specialization, Promedio: 5.00
+Curso: Generative AI with Large Language Models, Promedio: 4.80
+Curso: Generative AI: Foundation Models and Platforms, Promedio: 4.80
+Curso: Generative AI: Impact, Considerations, and Ethical Issues, Promedio: 4.70
+Curso: Generative AI: Introduction and Applications, Promedio: 4.70
+Curso: Generative AI: Prompt Engineering Basics, Promedio: 4.80
+Curso: Generative Adversarial Networks (GANs) Specialization, Promedio: 4.70
+Curso: Generative Design for Additive Manufacturing, Promedio: 4.80
+Curso: Generative Design for Industrial Applications, Promedio: 4.80
+Curso: Generative Design for Part Consolidation, Promedio: 4.90
+Curso: Generative Design for Performance and Weight Reduction, Promedio: 4.80
+Curso: Generative Pre-trained Transformers (GPT), Promedio: 4.40
+Curso: Genomic Data Science Specialization, Promedio: 4.40
+Curso: Geographic Information Systems  (GIS) Specialization, Promedio: 4.80
+Curso: Gestion de projet de Google  Professional Certificate, Promedio: 4.60
+Curso: Gestión con enfoque en riesgos en proyectos de desarrollo, Promedio: 4.90
+Curso: Gestión de Proyectos de Google Professional Certificate, Promedio: 4.90
+Curso: Gestión de redes sociales, Promedio: 4.90
+Curso: Gestión estratégica de Escuelas en Contextos Rurales, Promedio: 4.80
+Curso: Get Started with Python, Promedio: 4.80
+Curso: Getting Started on Mainframe with z/OS Commands and Panels, Promedio: 4.70
+Curso: Getting Started with Azure, Promedio: 4.40
+Curso: Getting Started with Data Analytics on AWS, Promedio: 4.50
+Curso: Getting Started with Data Warehousing and BI Analytics, Promedio: 4.40
+Curso: Getting Started with Front-End and Web Development, Promedio: 4.40
+Curso: Getting Started with Generative AI API Specialization, Promedio: 3.60
+Curso: Getting Started with Git and GitHub, Promedio: 4.60
+Curso: Getting Started with Google Kubernetes Engine, Promedio: 4.50
+Curso: Getting Started with Google Kubernetes Engine - Español, Promedio: 4.60
+Curso: Getting Started with Google Kubernetes Engine - 日本語版, Promedio: 4.10
+Curso: Getting Started with Google Workspace en Español Specialization, Promedio: 4.60
+Curso: Getting Started with Leadership, Promedio: 4.70
+Curso: Getting started with Google Workspace Specialization, Promedio: 4.80
+Curso: Giving Helpful Feedback, Promedio: 4.80
+Curso: Global Disease Masterclass: Global Disease Distribution, Promedio: 4.70
+Curso: Global Health Challenges and Governance Specialization, Promedio: 5.00
+Curso: Global Health Innovations Specialization, Promedio: 4.70
+Curso: Global Health Policy, Promedio: 4.70
+Curso: Global Health Security, Solidarity and Sustainability through the International Health Regulations, Promedio: 4.70
+Curso: Global Procurement and Sourcing Specialization, Promedio: 4.70
+Curso: Global Systemic Risk , Promedio: 4.70
+Curso: Global sustainability and corporate social responsibility: Be sustainable, Promedio: 4.80
+Curso: Gmail, Promedio: 4.80
+Curso: Gmail en Español, Promedio: 4.80
+Curso: Go Beyond the Numbers: Translate Data into Insights, Promedio: 4.80
+Curso: Gobierno Digital, Promedio: 4.60
+Curso: Good with Words: Speaking and Presenting Specialization, Promedio: 4.70
+Curso: Good with Words: Writing and Editing Specialization, Promedio: 4.70
+Curso: Goodwill® Career Coach and Navigator Professional Certificate, Promedio: 4.70
+Curso: Google Advanced Data Analytics Capstone, Promedio: 4.90
+Curso: Google Advanced Data Analytics Professional Certificate, Promedio: 4.80
+Curso: Google Business Intelligence Professional Certificate, Promedio: 4.70
+Curso: Google Calendar, Promedio: 4.80
+Curso: Google Calendar en Español, Promedio: 4.60
+Curso: Google Chat, Promedio: 4.80
+Curso: Google Cloud Big Data and Machine Learning Fundamentals, Promedio: 4.70
+Curso: Google Cloud Database Engineer Specialization, Promedio: 4.70
+Curso: Google Cloud Digital Leader Training Professional Certificate, Promedio: 4.80
+Curso: Google Cloud Fundamentals: Core Infrastructure, Promedio: 4.70
+Curso: Google Cloud Fundamentals: Core Infrastructure em Português Brasileiro, Promedio: 4.80
+Curso: Google Cloud Fundamentals: Core Infrastructure en Español, Promedio: 4.80
+Curso: Google Cloud Fundamentals: Core Infrastructure en Français, Promedio: 4.70
+Curso: Google Cloud Fundamentals: Core Infrastructure 日本語版, Promedio: 4.50
+Curso: Google Cloud IAM and Networking for Azure Professionals, Promedio: 4.60
+Curso: Google Cloud Infrastructure for AWS Professionals Specialization, Promedio: 4.80
+Curso: Google Cybersecurity Professional Certificate, Promedio: 4.80
+Curso: Google Data Analytics (DE) Professional Certificate, Promedio: 4.50
+Curso: Google Data Analytics (PT) Professional Certificate, Promedio: 4.90
+Curso: Google Data Analytics Capstone: Complete a Case Study, Promedio: 4.80
+Curso: Google Data Analytics Professional Certificate, Promedio: 4.65
+Curso: Google Digital Marketing & E-commerce Professional Certificate, Promedio: 4.80
+Curso: Google Docs, Promedio: 4.80
+Curso: Google Docs en Español, Promedio: 4.80
+Curso: Google Drive, Promedio: 4.80
+Curso: Google Drive en Español, Promedio: 4.70
+Curso: Google IT Automation with Python Professional Certificate, Promedio: 4.80
+Curso: Google IT Support (Deutsch)  Professional Certificate, Promedio: 4.70
+Curso: Google IT Support Professional Certificate, Promedio: 4.75
+Curso: Google IT 지원 수료증 이수 과정 Professional Certificate, Promedio: 5.00
+Curso: Google Marketing Digital e E-Commerce Professional Certificate, Promedio: 4.90
+Curso: Google Meet, Promedio: 4.80
+Curso: Google Meet - Español, Promedio: 4.90
+Curso: Google Proje Yönetimi Professional Certificate, Promedio: 4.90
+Curso: Google Project Management (DE) Professional Certificate, Promedio: 4.20
+Curso: Google Project Management (PT) Professional Certificate, Promedio: 4.90
+Curso: Google Project Management Professional Certificate, Promedio: 4.60
+Curso: Google Project Management: Professional Certificate, Promedio: 4.80
+Curso: Google Sheets, Promedio: 4.70
+Curso: Google Sheets - Advanced Topics, Promedio: 4.70
+Curso: Google Sheets - Advanced Topics en español, Promedio: 4.80
+Curso: Google Sheets en Español, Promedio: 4.90
+Curso: Google Slides, Promedio: 4.80
+Curso: Google Slides en Español, Promedio: 5.00
+Curso: Google UX Design (DE) Professional Certificate, Promedio: 4.40
+Curso: Google UX Design (PT) Professional Certificate, Promedio: 4.90
+Curso: Google UX Design Professional Certificate, Promedio: 4.73
+Curso: Google Workspace Mail Management, Promedio: 4.80
+Curso: Google Workspace Security, Promedio: 4.70
+Curso: Google شهادة تقنية المعلومات من Professional Certificate, Promedio: 4.80
+Curso: Google サイバーセキュリティ Professional Certificate, Promedio: 4.70
+Curso: Google データアナリティクス Professional Certificate, Promedio: 4.70
+Curso: Google 데이터 애널리틱스 수료증 이수 과정 Professional Certificate, Promedio: 4.60
+Curso: Graphic Design, Promedio: 4.80
+Curso: Graphic Design Elements for Non-Designers Specialization, Promedio: 4.70
+Curso: Graphic Design Specialization, Promedio: 4.70
+Curso: Graphic Elements of Design: Color Theory and Image Formats, Promedio: 4.70
+Curso: Greening the Economy: Sustainable Cities, Promedio: 4.70
+Curso: Groundwork for Success in Sales Development, Promedio: 4.50
+Curso: Grundlagen der Unfallchirurgie, Promedio: 4.80
+Curso: Grundlagen des Projektmanagements, Promedio: 4.40
+Curso: Grundlagen des User Experience Designs (UXD), Promedio: 4.50
+Curso: Guided Imagery, Promedio: 4.80
+Curso: Guitar Chord Voicings: Playing Up The Neck, Promedio: 4.70
+Curso: Guitar Performance Techniques, Promedio: 4.50
+Curso: Guitar Scales and Chord Progressions, Promedio: 4.70
+Curso: Gut Check: Exploring Your Microbiome, Promedio: 4.70
+Curso: Génie logiciel Specialization, Promedio: 4.50
+Curso: HPV-Associated Oral and Throat Cancer: What You Need to Know, Promedio: 4.80
+Curso: HRCI Human Resource Associate Professional Certificate, Promedio: 4.80
+Curso: HTML and CSS in depth, Promedio: 4.70
+Curso: Hacer negocios en América Latina Specialization, Promedio: 4.80
+Curso: Hacking Exercise For Health. The surprising new science of fitness., Promedio: 4.70
+Curso: Hands-On Labs in Google Cloud for Networking Engineers, Promedio: 4.70
+Curso: Hands-On Labs in Google Cloud for Security Engineers, Promedio: 4.80
+Curso: Hands-on Internet of Things Specialization, Promedio: 4.70
+Curso: Hands-on Introduction to Linux Commands and Shell Scripting, Promedio: 4.70
+Curso: Hands-on with AWS for IT Professionals, Promedio: 4.70
+Curso: Hardening, Polymers, Properties, Promedio: 4.60
+Curso: Hardware Description Languages for FPGA Design, Promedio: 4.40
+Curso: Harnessing the Power of Data with Power BI, Promedio: 4.50
+Curso: Health After Cancer: Cancer Survivorship for Primary Care, Promedio: 4.80
+Curso: Health Behavior Change: From Evidence to Action, Promedio: 4.80
+Curso: Health Care IT: Challenges and Opportunities, Promedio: 4.70
+Curso: Health Informatics Specialization, Promedio: 4.40
+Curso: Health Information Literacy for Data Analytics Specialization, Promedio: 4.50
+Curso: Health Systems Development: A Focus on Health Service Delivery and Human Resources for Health, Promedio: 4.70
+Curso: Health Systems Development: Health systems, Policy and Research, Promedio: 4.80
+Curso: Health Systems Development: Introduction to Health Systems, Promedio: 4.70
+Curso: Health, Housing, and Educational Services, Promedio: 4.80
+Curso: Health, Society, and Wellness in COVID-19 Times , Promedio: 4.60
+Curso: Healthcare Entrepreneurship: Taking Ideas to Market, Promedio: 4.70
+Curso: Healthcare Innovation: What Does Success Look Like and How to Achieve It?, Promedio: 4.70
+Curso: Healthcare Law Specialization, Promedio: 4.80
+Curso: Healthcare Trends for Business Professionals Specialization, Promedio: 4.50
+Curso: Healthier Materials and Sustainable Building Specialization, Promedio: 4.80
+Curso: Healthy Aging and the Future of Cannabis Research, Promedio: 4.70
+Curso: Healthy and Sustainable Foods and Products Specialization, Promedio: 4.00
+Curso: Hearing Loss in Children, Promedio: 4.90
+Curso: Herbal Medicine, Promedio: 4.90
+Curso: Herramientas de gestión de proyectos de desarrollo, Promedio: 4.80
+Curso: Herramientas de la Economía Circular, Promedio: 4.80
+Curso: Herramientas del oficio: Linux y SQL, Promedio: 4.90
+Curso: High Stakes Leadership: Leading in Times of Crisis, Promedio: 4.70
+Curso: High-Impact Business Writing, Promedio: 4.50
+Curso: Hiring Practices, Promedio: 4.70
+Curso: Historia del Arte: Del Arte Prehistórico al Renacimiento, Promedio: 4.70
+Curso: Historia del Arte: Del Barroco al Arte Posmoderno, Promedio: 4.70
+Curso: History of Medical Cannabis, Promedio: 4.80
+Curso: History of Mental Illness, Promedio: 4.60
+Curso: History of Racial Inequity in Healthcare, Promedio: 4.90
+Curso: History of Rock, Part One, Promedio: 4.80
+Curso: History of Rock, Part Two, Promedio: 4.80
+Curso: How Do We Manage Climate Change?, Promedio: 4.80
+Curso: How Google does Machine Learning, Promedio: 4.60
+Curso: How Google does Machine Learning en Español, Promedio: 4.60
+Curso: How Technology is Shaping Democracy and the 2020 Election, Promedio: 4.40
+Curso: How to Manage a Remote Team, Promedio: 4.80
+Curso: How to Network: Leading Yourself to Lead Others, Promedio: 4.50
+Curso: Human Factors in AI, Promedio: 4.70
+Curso: Human Resource Management: HR for People Managers Specialization, Promedio: 4.80
+Curso: Hypothesis Testing in Public Health , Promedio: 4.80
+Curso: I. Missões jesuíticas nos territórios guaranis: história, Promedio: 4.50
+Curso: IA generativa en el aula, Promedio: 4.80
+Curso: IBM & Darden Digital Strategy Specialization, Promedio: 4.80
+Curso: IBM AI Engineering Professional Certificate, Promedio: 4.50
+Curso: IBM Applied AI Professional Certificate, Promedio: 4.60
+Curso: IBM Applied DevOps Engineering Professional Certificate, Promedio: 4.80
+Curso: IBM Back-End Development Professional Certificate, Promedio: 4.60
+Curso: IBM Cybersecurity Analyst Professional Certificate, Promedio: 4.60
+Curso: IBM Data Analyst Capstone Project, Promedio: 4.60
+Curso: IBM Data Analyst Professional Certificate, Promedio: 4.70
+Curso: IBM Data Analytics with Excel and R Professional Certificate, Promedio: 4.70
+Curso: IBM Data Engineering Professional Certificate, Promedio: 4.60
+Curso: IBM Data Science Professional Certificate, Promedio: 4.60
+Curso: IBM Data Warehouse Engineer Professional Certificate, Promedio: 4.70
+Curso: IBM DevOps and Software Engineering Professional Certificate, Promedio: 4.70
+Curso: IBM Front-End Developer Professional Certificate, Promedio: 4.60
+Curso: IBM Full Stack Software Developer Professional Certificate, Promedio: 4.50
+Curso: IBM Full-Stack JavaScript Developer Professional Certificate, Promedio: 4.80
+Curso: IBM IT Project Manager Professional Certificate, Promedio: 4.80
+Curso: IBM IT Scrum Master Professional Certificate, Promedio: 4.80
+Curso: IBM IT Support  Professional Certificate, Promedio: 4.80
+Curso: IBM Introduction to Machine Learning Specialization, Promedio: 4.70
+Curso: IBM Machine Learning Professional Certificate, Promedio: 4.60
+Curso: IBM Product Manager Professional Certificate, Promedio: 4.80
+Curso: IBM Project Manager  Professional Certificate, Promedio: 4.80
+Curso: IS/IT Governance, Promedio: 4.70
+Curso: IT Infrastructure and Emerging Trends, Promedio: 4.80
+Curso: IT Support Google Professional Certificate, Promedio: 4.90
+Curso: Ideal Gases, Promedio: 4.50
+Curso: Ideas from the History of Graphic Design, Promedio: 4.70
+Curso: Identifying Patient Populations, Promedio: 4.40
+Curso: Identifying, Attracting, and Growing Your Digital Audience, Promedio: 4.70
+Curso: Image Processing for Engineering and Science Specialization, Promedio: 4.80
+Curso: Image Segmentation, Filtering, and Region Analysis, Promedio: 4.80
+Curso: Immunology: Adaptive Immune System, Promedio: 4.70
+Curso: Immunology: Autoimmunity, Allergy, and Transplants, Promedio: 4.80
+Curso: Immunology: Immune Failures and Cancer Immunology, Promedio: 4.60
+Curso: Immunology: Immune System and Infectious Diseases, Promedio: 4.80
+Curso: Immunology: Innate Immune System, Promedio: 4.80
+Curso: Immunology: The Immune System and its Failures Specialization, Promedio: 4.70
+Curso: Impacting the Opioid Crisis: Prevention, Education, and Practice for Non-Prescribing Providers, Promedio: 4.80
+Curso: Impacts of the Environment on Global Public Health Specialization, Promedio: 4.80
+Curso: Implementation of PhET Activities for STEM Education, Promedio: 4.90
+Curso: Implementing RPA with Cognitive Automation and Analytics Specialization, Promedio: 4.60
+Curso: In the Trenches: Security Operations Center , Promedio: 4.70
+Curso: Inclusive Leadership: The Power of Workplace Diversity, Promedio: 4.90
+Curso: Inclusión social de personas con discapacidad desde un enfoque de derechos., Promedio: 4.70
+Curso: Industrial Internet of Things (IIoT), Promedio: 4.50
+Curso: Industrial IoT Markets and Security, Promedio: 4.70
+Curso: Infectious Disease Modelling Specialization, Promedio: 4.80
+Curso: Infectious Disease Transmission Models for Decision-Makers, Promedio: 4.80
+Curso: Influencing People, Promedio: 4.80
+Curso: Influencing: Storytelling, Change Management and Governance Specialization, Promedio: 4.80
+Curso: Infonomics I: Business Information Economics and Data Monetization, Promedio: 4.60
+Curso: Infonomics II: Business Information Management and Measurement, Promedio: 4.60
+Curso: Information Technology (IT) Fundamentals for Everyone, Promedio: 4.60
+Curso: Information Technology (IT) and Cloud Fundamentals Specialization, Promedio: 4.80
+Curso: Information Visualization  Specialization, Promedio: 4.60
+Curso: Information​ ​Systems Specialization, Promedio: 4.80
+Curso: Infraestructura sostenible Specialization, Promedio: 4.80
+Curso: Ingeniero en base de datos de Meta Professional Certificate, Promedio: 4.50
+Curso: Inheritance and Data Structures in Java, Promedio: 4.60
+Curso: Iniciación a los jeroglíficos egipcios, Promedio: 4.90
+Curso: Iniciación del proyecto: Cómo iniciar un proyecto exitoso, Promedio: 4.90
+Curso: Iniciándome en la Química, Promedio: 4.50
+Curso: Initiation au projet : Démarrer un projet réussi, Promedio: 4.80
+Curso: Innovación Educativa, Promedio: 4.70
+Curso: Innovación y emprendimiento  Specialization, Promedio: 4.60
+Curso: Innovating with the Business Model Canvas, Promedio: 4.60
+Curso: Innovations in Investment Technology: Artificial Intelligence, Promedio: 4.70
+Curso: Innovative Governance of Large Urban Systems, Promedio: 4.70
+Curso: Innovative Teaching with ChatGPT, Promedio: 4.60
+Curso: Input Filter Design, Promedio: 4.80
+Curso: Inspiring and Motivating Individuals, Promedio: 4.80
+Curso: Instructional Methods in Health Professions Education, Promedio: 4.70
+Curso: Integración y preparación de datos, Promedio: 4.90
+Curso: Integral Calculus and Numerical Analysis for Data Science, Promedio: 4.60
+Curso: Integral Calculus through Data and Modeling Specialization, Promedio: 4.80
+Curso: Integrative Health and Medicine Specialization, Promedio: 4.80
+Curso: Integrative Nursing Specialization, Promedio: 4.80
+Curso: Intellectual Property Law Specialization, Promedio: 4.80
+Curso: Intellectual Property in the Healthcare Industry, Promedio: 4.80
+Curso: Intel® AI Fundamentals Specialization, Promedio: 4.20
+Curso: Interactive Computer Graphics, Promedio: 4.10
+Curso: Interactive Teaching（インタラクティブ・ティーチング）, Promedio: 4.80
+Curso: Interactivity with JavaScript, Promedio: 4.70
+Curso: Intermediate PostgreSQL, Promedio: 4.70
+Curso: International Business Context, Promedio: 4.70
+Curso: International Business Essentials Specialization, Promedio: 4.50
+Curso: International Business Operations, Promedio: 4.80
+Curso: International Business Specialization, Promedio: 4.80
+Curso: International Business Venturing Abroad, Promedio: 4.80
+Curso: International Business and Culture, Promedio: 4.70
+Curso: Internet History, Technology, and Security, Promedio: 4.80
+Curso: Interventions and Calibration, Promedio: 4.70
+Curso: Intro to AR/VR/MR/XR: Technologies, Applications & Issues, Promedio: 4.70
+Curso: Intro to Analytic Thinking, Data Science, and Data Mining, Promedio: 4.20
+Curso: Intro to Operating Systems 1: Virtualization, Promedio: 4.70
+Curso: Intro to Operating Systems 2: Memory Management, Promedio: 4.60
+Curso: Intro to Operating Systems 3: Concurrency, Promedio: 4.30
+Curso: Intro to Operating Systems 4: Persistence, Promedio: 4.70
+Curso: Intro to the Arctic, Promedio: 4.70
+Curso: Introducción a la Neurociencia, Promedio: 4.70
+Curso: Introducción a la Psicología, Promedio: 4.80
+Curso: Introducción a la inteligencia artificial contemporánea, Promedio: 4.70
+Curso: Introducción a la inteligencia emocional, Promedio: 4.80
+Curso: Introducción a la programación con Python, Promedio: 4.60
+Curso: Introducción a las Simulaciones PhET para la Educación STEM, Promedio: 4.90
+Curso: Introducción al análisis de Costos para la Dirección de Empresas, Promedio: 4.60
+Curso: Introducción al análisis de sistemas de control con MATLAB, Promedio: 4.90
+Curso: Introducción al mantenimiento de activos físicos, Promedio: 4.90
+Curso: Introduction to .NET Core, Promedio: 3.90
+Curso: Introduction to 3D Modeling, Promedio: 3.60
+Curso: Introduction to AI and Machine Learning on Google Cloud, Promedio: 4.80
+Curso: Introduction to AI in the Data Center, Promedio: 4.70
+Curso: Introduction to AWS Cloud Careers, Promedio: 4.70
+Curso: Introduction to Abnormal Psychology, Promedio: 4.90
+Curso: Introduction to Additive Manufacturing Processes, Promedio: 4.70
+Curso: Introduction to Agile Development and Scrum, Promedio: 4.90
+Curso: Introduction to Android Mobile Application Development , Promedio: 4.60
+Curso: Introduction to Artificial Intelligence (AI), Promedio: 4.70
+Curso: Introduction to AutoSAR, Promedio: 4.50
+Curso: Introduction to Back-End Development, Promedio: 4.80
+Curso: Introduction to Big Data with Spark and Hadoop, Promedio: 4.40
+Curso: Introduction to Biology: Biodiversity, Promedio: 4.90
+Curso: Introduction to Biology: Ecology, Promedio: 4.80
+Curso: Introduction to Biology: Evolution, Promedio: 4.90
+Curso: Introduction to Blockchain Specialization, Promedio: 4.60
+Curso: Introduction to Blockchain Technologies, Promedio: 4.70
+Curso: Introduction to Blockchain for Financial Services, Promedio: 4.70
+Curso: Introduction to Business Analytics, Promedio: 4.70
+Curso: Introduction to Business Analytics and Information Economics Specialization, Promedio: 4.70
+Curso: Introduction to Business Analytics with R, Promedio: 4.60
+Curso: Introduction to Business Specialization, Promedio: 4.70
+Curso: Introduction to CAD, CAM, and Practical CNC Machining, Promedio: 4.80
+Curso: Introduction to CSS3, Promedio: 4.80
+Curso: Introduction to Cataract Surgery, Promedio: 4.80
+Curso: Introduction to Clinical Data, Promedio: 4.60
+Curso: Introduction to Clinical Data Science, Promedio: 4.50
+Curso: Introduction to Cloud Computing, Promedio: 4.60
+Curso: Introduction to Computer Science and Programming Specialization, Promedio: 4.20
+Curso: Introduction to Computer Vision, Promedio: 4.50
+Curso: Introduction to Computer Vision and Image Processing, Promedio: 4.30
+Curso: Introduction to Computers and Operating Systems and Security, Promedio: 4.80
+Curso: Introduction to Containers w/ Docker, Kubernetes & OpenShift, Promedio: 4.40
+Curso: Introduction to Cyber Security Specialization, Promedio: 4.70
+Curso: Introduction to Cybersecurity & Risk Management Specialization, Promedio: 4.70
+Curso: Introduction to Cybersecurity Careers, Promedio: 4.40
+Curso: Introduction to Cybersecurity Essentials, Promedio: 4.80
+Curso: Introduction to Cybersecurity Foundations, Promedio: 4.70
+Curso: Introduction to Cybersecurity Fundamentals, Promedio: 4.70
+Curso: Introduction to Cybersecurity Tools & Cyber Attacks, Promedio: 4.60
+Curso: Introduction to Data Analytics, Promedio: 4.80
+Curso: Introduction to Data Analytics for Accounting Professionals, Promedio: 4.70
+Curso: Introduction to Data Analytics for Business, Promedio: 4.70
+Curso: Introduction to Data Engineering, Promedio: 4.70
+Curso: Introduction to Data Science Specialization, Promedio: 4.70
+Curso: Introduction to Data Science and scikit-learn in Python, Promedio: 3.80
+Curso: Introduction to Data Science in Python, Promedio: 4.50
+Curso: Introduction to Data, Signal, and Image Analysis with MATLAB, Promedio: 4.70
+Curso: Introduction to Databases, Promedio: 4.70
+Curso: Introduction to Databases for Back-End Development, Promedio: 4.60
+Curso: Introduction to Designing Data Lakes on AWS, Promedio: 4.70
+Curso: Introduction to DevOps, Promedio: 4.80
+Curso: Introduction to Ear, Nose, and Throat Disorders Specialization, Promedio: 4.80
+Curso: Introduction to Early Childhood, Promedio: 4.70
+Curso: Introduction to EdTech, Promedio: 4.50
+Curso: Introduction to Electricity and Magnetism Specialization, Promedio: 4.70
+Curso: Introduction to Embedded Machine Learning, Promedio: 4.80
+Curso: Introduction to Embedded Systems Software and Development Environments, Promedio: 4.50
+Curso: Introduction to Enterprise Computing, Promedio: 4.70
+Curso: Introduction to FPGA Design for Embedded Systems, Promedio: 4.60
+Curso: Introduction to Finance and Accounting Specialization, Promedio: 4.40
+Curso: Introduction to Finance: The Basics, Promedio: 4.70
+Curso: Introduction to Financial Accounting: The Accounting Cycle Specialization, Promedio: 4.80
+Curso: Introduction to Food and Our Environment, Promedio: 4.80
+Curso: Introduction to Front-End Development, Promedio: 4.80
+Curso: Introduction to Generative AI, Promedio: 3.90
+Curso: Introduction to Generative AI , Promedio: 4.60
+Curso: Introduction to Generative AI - Español, Promedio: 4.40
+Curso: Introduction to Git and GitHub, Promedio: 4.80
+Curso: Introduction to Good Clinical Practice, Promedio: 4.70
+Curso: Introduction to Google SEO, Promedio: 4.60
+Curso: Introduction to Google Workspace Administration, Promedio: 4.70
+Curso: Introduction to HTML, CSS, & JavaScript, Promedio: 4.90
+Curso: Introduction to HTML5, Promedio: 4.70
+Curso: Introduction to Hardware and Operating Systems, Promedio: 4.80
+Curso: Introduction to Healthcare, Promedio: 4.80
+Curso: Introduction to Hearing Loss, Promedio: 4.80
+Curso: Introduction to High-Performance and Parallel Computing, Promedio: 3.20
+Curso: Introduction to Image Generation, Promedio: 4.30
+Curso: Introduction to Image Processing, Promedio: 4.80
+Curso: Introduction to Imagemaking, Promedio: 4.50
+Curso: Introduction to Information Systems for Business Specialization, Promedio: 4.70
+Curso: Introduction to Information Technology and AWS Cloud, Promedio: 4.80
+Curso: Introduction to Integrative Nursing, Promedio: 4.70
+Curso: Introduction to Integrative Therapies and Healing Practices, Promedio: 4.70
+Curso: Introduction to Intellectual Property, Promedio: 4.80
+Curso: Introduction to Java, Promedio: 4.60
+Curso: Introduction to Java and Object-Oriented Programming, Promedio: 4.40
+Curso: Introduction to Junos OS Specialization, Promedio: 4.80
+Curso: Introduction to Korean Philosophy and Culture, Promedio: 4.80
+Curso: Introduction to Large Language Models, Promedio: 4.30
+Curso: Introduction to Logic and Critical Thinking Specialization, Promedio: 4.60
+Curso: Introduction to Machine Learning in Production, Promedio: 4.80
+Curso: Introduction to Machine Learning in Sports Analytics, Promedio: 4.60
+Curso: Introduction to Machine Learning on AWS, Promedio: 4.50
+Curso: Introduction to Machine Learning: Supervised Learning, Promedio: 3.30
+Curso: Introduction to Management Consulting, Promedio: 4.80
+Curso: Introduction to Market Research, Promedio: 4.20
+Curso: Introduction to Materials Science , Promedio: 4.70
+Curso: Introduction to Mechanical Engineering Design and Manufacturing with Fusion 360, Promedio: 4.80
+Curso: Introduction to Mechanics Specialization, Promedio: 4.60
+Curso: Introduction to Medical Software, Promedio: 4.80
+Curso: Introduction to Microsoft Azure Cloud Services, Promedio: 4.60
+Curso: Introduction to Mobile Development, Promedio: 4.70
+Curso: Introduction to MongoDB, Promedio: 4.70
+Curso: Introduction to Networking, Promedio: 4.40
+Curso: Introduction to Networking and Cloud Computing, Promedio: 4.90
+Curso: Introduction to Networking and Storage, Promedio: 4.70
+Curso: Introduction to NoSQL Databases, Promedio: 4.60
+Curso: Introduction to Object-Oriented Programming in C++, Promedio: 4.70
+Curso: Introduction to Operating Systems Specialization, Promedio: 4.70
+Curso: Introduction to Operations Management, Promedio: 4.40
+Curso: Introduction to Particle Accelerators (NPAP MOOC), Promedio: 4.70
+Curso: Introduction to PhET Simulations for STEM Education, Promedio: 4.90
+Curso: Introduction to Power Electronics, Promedio: 4.70
+Curso: Introduction to Programming, Promedio: 4.50
+Curso: Introduction to Programming with MATLAB, Promedio: 4.80
+Curso: Introduction to Programming with Python and Java Specialization, Promedio: 4.40
+Curso: Introduction to Project Management , Promedio: 4.80
+Curso: Introduction to Public Relations and the Media Specialization, Promedio: 4.70
+Curso: Introduction to Python Programming, Promedio: 4.50
+Curso: Introduction to R Programming for Data Science, Promedio: 4.50
+Curso: Introduction to Relational Databases (RDBMS), Promedio: 4.60
+Curso: Introduction to Responsible AI, Promedio: 4.70
+Curso: Introduction to Responsible AI - Español, Promedio: 4.30
+Curso: Introduction to Risk Management, Promedio: 4.60
+Curso: Introduction to Robotics with Webots Specialization, Promedio: 4.70
+Curso: Introduction to Scrum Master Profession, Promedio: 4.70
+Curso: Introduction to Scrum Master Training, Promedio: 4.70
+Curso: Introduction to Seaweeds, Promedio: 4.90
+Curso: Introduction to Self-Determination Theory: An approach to motivation, development and wellness, Promedio: 4.80
+Curso: Introduction to Self-Driving Cars, Promedio: 4.70
+Curso: Introduction to Social Media Marketing, Promedio: 4.80
+Curso: Introduction to Software Engineering, Promedio: 4.70
+Curso: Introduction to Software Testing, Promedio: 4.40
+Curso: Introduction to Software, Programming, and Databases , Promedio: 4.70
+Curso: Introduction to Statistics & Data Analysis in Public Health, Promedio: 4.70
+Curso: Introduction to Structured Query Language (SQL), Promedio: 4.80
+Curso: Introduction to Supply Chain Finance & Blockchain Technology, Promedio: 4.60
+Curso: Introduction to Systems Engineering Specialization, Promedio: 5.00
+Curso: Introduction to Tableau, Promedio: 4.80
+Curso: Introduction to Technical Support , Promedio: 4.80
+Curso: Introduction to Technical Writing, Promedio: 3.60
+Curso: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning, Promedio: 4.80
+Curso: Introduction to Test and Behavior Driven Development, Promedio: 4.80
+Curso: Introduction to Thermodynamics: Transferring Energy from Here to There, Promedio: 4.80
+Curso: Introduction to Trading, Machine Learning & GCP, Promedio: 4.00
+Curso: Introduction to Translational Science, Promedio: 4.50
+Curso: Introduction to Typography, Promedio: 4.80
+Curso: Introduction to UX Design MasterTrack Certificate Program, Promedio: 3.90
+Curso: Introduction to User Experience Principles and Processes, Promedio: 4.80
+Curso: Introduction to Web Development with HTML, CSS, JavaScript, Promedio: 4.60
+Curso: Introduction to battery-management systems, Promedio: 4.80
+Curso: Introduction to iOS Mobile Application Development, Promedio: 4.70
+Curso: Introductory Human Physiology, Promedio: 4.80
+Curso: Introduzione alla Storia dell'Architettura Contemporanea, Promedio: 4.80
+Curso: Introduzione alla fisica sperimentale: elettromagnetismo, ottica, fisica moderna, Promedio: 4.70
+Curso: Introduzione alla fisica sperimentale: meccanica, termodinamica, Promedio: 4.70
+Curso: Intuit Academy Bookkeeping Professional Certificate, Promedio: 4.60
+Curso: Inversiones en los mercados de capitales, Promedio: 4.70
+Curso: Investment Management with Python and Machine Learning Specialization, Promedio: 4.50
+Curso: IoT Devices, Promedio: 4.70
+Curso: Java FullStack Developer Specialization, Promedio: 4.20
+Curso: JavaScript Basics, Promedio: 4.70
+Curso: JavaScript Security Part 3, Promedio: 4.70
+Curso: JavaScript Security Specialization, Promedio: 4.50
+Curso: Jazz Improvisation, Promedio: 4.80
+Curso: Jugar y Aprender Matemática en aulas heterogéneas, Promedio: 4.90
+Curso: Julia Scientific Programming, Promedio: 4.40
+Curso: Keller Williams Real Estate Agent Professional Certificate, Promedio: 5.00
+Curso: Key Success Factors in Supply Chain Finance, Promedio: 4.70
+Curso: Key Technologies for Business Specialization, Promedio: 4.70
+Curso: Kinematics: Describing the Motions of Spacecraft, Promedio: 4.90
+Curso: Kinetics: Studying Spacecraft Motion, Promedio: 4.80
+Curso: Know Thyself - The Value and Limits of Self-Knowledge: The Unconscious, Promedio: 4.70
+Curso: La Química de las Reacciones, Promedio: 4.10
+Curso: La alfabetización temprana en contextos rurales , Promedio: 4.80
+Curso: La enseñanza de las Ciencias Naturales en la escuela primaria, Promedio: 4.80
+Curso: La era digital en América Latina y el Caribe, Promedio: 4.80
+Curso: Langues et diversité: de la variation au plurilinguisme, Promedio: 4.90
+Curso: Large Marine Ecosystems: Assessment and Management, Promedio: 4.80
+Curso: Launching into Machine Learning, Promedio: 4.60
+Curso: Launching into Machine Learning en Français, Promedio: 4.50
+Curso: Lead Management in Salesforce, Promedio: 4.70
+Curso: Leadership Out of the Box Specialization, Promedio: 4.60
+Curso: Leadership Skills, Promedio: 4.80
+Curso: Leadership and Disruption, Promedio: 4.80
+Curso: Leadership and Negotiation Skills Specialization, Promedio: 4.40
+Curso: Leadership and organizational behavior, Promedio: 4.50
+Curso: Leadership focused on Human Flourishing, Promedio: 4.80
+Curso: Leading Change in Health Informatics, Promedio: 4.70
+Curso: Leading Diverse Teams & Organizations, Promedio: 4.80
+Curso: Leading Oneself with Personal Excellence, Promedio: 4.70
+Curso: Leading Oneself with Purpose and Meaning, Promedio: 4.90
+Curso: Leading Oneself with Self-Knowledge, Promedio: 4.60
+Curso: Leading People and Teams Specialization, Promedio: 4.80
+Curso: Leading Sustainable Community Transformation Specialization, Promedio: 4.30
+Curso: Leading Teams, Promedio: 4.80
+Curso: Leading for Equity, Diversity and Inclusion in Higher Education, Promedio: 4.60
+Curso: Leading the Modern Day Business Specialization, Promedio: 4.70
+Curso: Leading transformations: Manage change, Promedio: 4.70
+Curso: Leading: Human Resource Management and Leadership Specialization, Promedio: 4.90
+Curso: Lean Management Fundamentals, Promedio: 4.50
+Curso: Learn HTML and CSS, Promedio: 4.60
+Curso: Learn JavaScript, Promedio: 4.80
+Curso: Learn SQL Basics for Data Science Specialization, Promedio: 4.50
+Curso: Learning How To Learn for Youth, Promedio: 4.80
+Curso: Learning MEAN Stack by Building Real world Application Specialization, Promedio: 3.40
+Curso: Learning and Development, Promedio: 4.70
+Curso: Learning for a Sustainable Future, Promedio: 4.70
+Curso: Learning for a Sustainable Future: Live at COP28, Promedio: 4.70
+Curso: Legal Tech and the Digital Transformation of Law, Promedio: 4.50
+Curso: Lessons on Wisdom: Personal Leadership for Your Life, Promedio: 4.90
+Curso: Leverage Data Science for a More Agile Supply Chain Specialization, Promedio: 4.50
+Curso: Leveraging AI for Enhanced Content Creation , Promedio: 4.90
+Curso: Liabilities and Equity in Accounting, Promedio: 4.30
+Curso: Liderazgo para el Siglo XXI: proyecto final, Promedio: 4.90
+Curso: Liderazgo y comportamiento organizacional, Promedio: 4.70
+Curso: Liderazgo y habilidades de negociación Specialization, Promedio: 4.70
+Curso: Liderazgo, Motivación y Gestión de Recursos Humanos Specialization, Promedio: 4.70
+Curso: Life Cycle Assessment, Promedio: 4.10
+Curso: Light Emitting Diodes and Semiconductor Lasers, Promedio: 4.00
+Curso: Linear Algebra for Data Science Using Python Specialization, Promedio: 3.80
+Curso: Linear Algebra for Machine Learning and Data Science, Promedio: 4.50
+Curso: Linear Regression in R for Public Health , Promedio: 4.80
+Curso: Linux System Programming and Introduction to Buildroot, Promedio: 4.00
+Curso: Linux on LinuxONE, Promedio: 4.60
+Curso: Lithium Based Batteries, Promedio: 4.80
+Curso: Llevar a cabo investigaciones en UX, Promedio: 4.80
+Curso: Logging and Monitoring in Google Cloud, Promedio: 4.70
+Curso: Logistic Regression in R for Public Health, Promedio: 4.80
+Curso: Lymphoedema: Monitoring & Intervention After Breast Cancer, Promedio: 4.90
+Curso: MATLAB Programming for Engineers and Scientists Specialization, Promedio: 4.80
+Curso: MLOps | Machine Learning Operations Specialization, Promedio: 3.80
+Curso: Machine Learning Algorithms with R in Business Analytics, Promedio: 4.70
+Curso: Machine Learning Capstone, Promedio: 4.40
+Curso: Machine Learning Data Lifecycle in Production , Promedio: 4.30
+Curso: Machine Learning Engineering for Production (MLOps) Specialization, Promedio: 4.60
+Curso: Machine Learning Introduction for Everyone, Promedio: 4.50
+Curso: Machine Learning Modeling Pipelines in Production, Promedio: 4.30
+Curso: Machine Learning Specialization, Promedio: 4.90
+Curso: Machine Learning Under the Hood: The Technical Tips, Tricks, and Pitfalls, Promedio: 4.90
+Curso: Machine Learning and Reinforcement Learning in Finance Specialization, Promedio: 3.70
+Curso: Machine Learning for Accounting with Python, Promedio: 4.60
+Curso: Machine Learning for All, Promedio: 4.70
+Curso: Machine Learning for Trading Specialization, Promedio: 3.90
+Curso: Machine Learning on Google Cloud Specialization, Promedio: 4.60
+Curso: Machine Learning with Apache Spark, Promedio: 4.60
+Curso: Machine Learning with Python, Promedio: 4.70
+Curso: Machine Learning: Theory and Hands-on Practice with Python Specialization, Promedio: 3.70
+Curso: Machine Learning: an overview, Promedio: 4.40
+Curso: Macroeconomics for Business Management, Promedio: 4.80
+Curso: Magnetics for Power Electronic Converters, Promedio: 4.80
+Curso: Major Engineering Project Performance, Promedio: 4.70
+Curso: Major Engineering Projects: Governance, Risk and Scope, Promedio: 4.70
+Curso: Make the Sale: Build, Launch, and Manage E-commerce Stores, Promedio: 4.80
+Curso: Making Sense of Supplements, Promedio: 4.80
+Curso: Making Successful Decisions through the Strategy, Law & Ethics Model, Promedio: 4.70
+Curso: Manage Identities and Governance in Azure, Promedio: 3.90
+Curso: Managerial Accounting Fundamentals, Promedio: 4.80
+Curso: Managing Cloud-native Applications with Kubernetes, Promedio: 4.80
+Curso: Managing Cybersecurity Incidents and Disasters, Promedio: 4.80
+Curso: Managing Cybersecurity Specialization, Promedio: 4.80
+Curso: Managing Emotions in Times of Uncertainty & Stress, Promedio: 4.80
+Curso: Managing Google Workspace, Promedio: 4.70
+Curso: Managing Major Engineering Projects Specialization, Promedio: 4.70
+Curso: Managing Network Security, Promedio: 4.80
+Curso: Managing Security in Google Cloud, Promedio: 4.70
+Curso: Managing Talent, Promedio: 4.60
+Curso: Manajemen Proyek Google Professional Certificate, Promedio: 5.00
+Curso: Market Research Specialization, Promedio: 4.50
+Curso: Market Research and Consumer Behavior, Promedio: 4.40
+Curso: Market Risk Management: Frameworks & Strategies, Promedio: 4.60
+Curso: Marketing Analytics, Promedio: 4.70
+Curso: Marketing Analytics Foundation, Promedio: 4.80
+Curso: Marketing Analytics with Meta, Promedio: 4.80
+Curso: Marketing de Mídias Sociais do Meta Professional Certificate, Promedio: 4.80
+Curso: Marketing digital e e-commerce do Google Professional Certificate, Promedio: 4.90
+Curso: Marketing digital para E-commerce, Promedio: 4.70
+Curso: Marketing en redes sociales de Meta Professional Certificate, Promedio: 4.90
+Curso: Marketing with TikTok Specialization, Promedio: 4.60
+Curso: Mastering Ansible Automation, Promedio: 4.10
+Curso: Mastering Digital Twins, Promedio: 4.10
+Curso: Mastering Excel Essentials to Enhance Business Value, Promedio: 4.20
+Curso: Mastering Final Cut Pro, Promedio: 4.50
+Curso: Mastering Programming with MATLAB, Promedio: 4.80
+Curso: Mastering Software Development in R Specialization, Promedio: 4.20
+Curso: Materials Science for Advanced Technological Applications Specialization, Promedio: 4.60
+Curso: Materials Science for Technological Application Specialization, Promedio: 4.60
+Curso: Mathematics for Computer Science, Promedio: 4.10
+Curso: Mathematics for Engineers Specialization, Promedio: 4.90
+Curso: Mathematics for Engineers: The Capstone Course, Promedio: 4.90
+Curso: Mathematics for Machine Learning and Data Science Specialization, Promedio: 4.60
+Curso: Mathematics for Machine Learning: PCA, Promedio: 4.00
+Curso: Matrix Algebra for Engineers, Promedio: 4.90
+Curso: Measuring Disease in Epidemiology, Promedio: 4.70
+Curso: Measuring and Maximizing Impact of COVID-19 Contact Tracing, Promedio: 4.50
+Curso: Medical Billing and Coding Essentials, Promedio: 4.70
+Curso: Medical Billing and Coding Fundamentals Specialization, Promedio: 4.80
+Curso: Medical Terminology and the Human Body Fundamentals, Promedio: 4.80
+Curso: Medical Terminology, Anatomy, and Physiology Fundamentals, Promedio: 4.70
+Curso: Meta AR Developer  Professional Certificate, Promedio: 4.60
+Curso: Meta Android Developer Professional Certificate, Promedio: 4.70
+Curso: Meta Back-End Developer Professional Certificate, Promedio: 4.70
+Curso: Meta Database Engineer Professional Certificate, Promedio: 4.60
+Curso: Meta Front-End Developer Professional Certificate, Promedio: 4.70
+Curso: Meta Marketing Analytics Professional Certificate, Promedio: 4.70
+Curso: Meta Marketing Science Certification Exam, Promedio: 4.80
+Curso: Meta React Native Specialization, Promedio: 4.80
+Curso: Meta iOS Developer Professional Certificate, Promedio: 4.70
+Curso: Metabolic Makeover, Promedio: 4.60
+Curso: Michigan Sport-Related Concussion Training Certification , Promedio: 4.70
+Curso: Microeconomics Principles, Promedio: 4.80
+Curso: Microsoft 365 Fundamentals Specialization, Promedio: 4.70
+Curso: Microsoft Azure AI Fundamentals AI-900 Exam Prep Specialization, Promedio: 4.60
+Curso: Microsoft Azure Cosmos DB, Promedio: 4.40
+Curso: Microsoft Azure Data Fundamentals DP-900 Exam Prep Specialization, Promedio: 4.70
+Curso: Microsoft Azure Data Scientist Associate (DP-100)  Professional Certificate, Promedio: 4.40
+Curso: Microsoft Azure Machine Learning, Promedio: 4.50
+Curso: Microsoft Azure Management Tools and Security Solutions, Promedio: 4.70
+Curso: Microsoft Azure SQL, Promedio: 4.60
+Curso: Microsoft Azure Security Engineer Associate (AZ-500) Professional Certificate, Promedio: 4.50
+Curso: Microsoft Azure Services and Lifecycles, Promedio: 4.80
+Curso: Microsoft Azure for Data Engineering, Promedio: 4.50
+Curso: Microsoft Cybersecurity Analyst Professional Certificate, Promedio: 4.80
+Curso: Microsoft PL-300 Exam Preparation and Practice, Promedio: 4.60
+Curso: Microsoft Power BI Data Analyst Professional Certificate, Promedio: 4.60
+Curso: Microsoft Power Platform Fundamentals, Promedio: 4.20
+Curso: Microsoft SC-900 Exam Preparation and Practice, Promedio: 3.90
+Curso: Microwave engineering and antennas, Promedio: 4.60
+Curso: Mindfulness and Well-being  Specialization, Promedio: 4.90
+Curso: Mindfulness and Well-being: Foundations, Promedio: 4.80
+Curso: Mindfulness and Well-being: Living with Balance and Ease, Promedio: 4.90
+Curso: Mindfulness in Integrative Healthcare, Promedio: 4.80
+Curso: Mindfulness: An Approach to Stress Reduction, Promedio: 4.80
+Curso: Mindware: Critical Thinking for the Information Age , Promedio: 4.80
+Curso: Mitigating Security Vulnerabilities on Google Cloud, Promedio: 4.70
+Curso: Mobile Development and JavaScript, Promedio: 4.40
+Curso: Model Thinking, Promedio: 4.80
+Curso: Modeling and Control of Power Electronics Specialization, Promedio: 4.80
+Curso: Modeling and Control of Single-Phase Rectifiers and Inverters, Promedio: 4.60
+Curso: Modeling and Debugging Embedded Systems, Promedio: 4.60
+Curso: Modeling and Design for Mechanical Engineers with Autodesk Fusion 360, Promedio: 4.80
+Curso: Modelling and measuring the Energy Transition, Promedio: 4.20
+Curso: Modelos de diseño instruccional para ambientes digitales , Promedio: 4.70
+Curso: Modern Data Warehouse Analytics in Microsoft Azure, Promedio: 4.40
+Curso: Modern Project Management Specialization, Promedio: 4.70
+Curso: Modern and Contemporary Art and Design Specialization, Promedio: 4.80
+Curso: Modernize Infrastructure and Applications with Google Cloud, Promedio: 4.70
+Curso: Modernizing Data Lakes and Data Warehouses with GCP 日本語版, Promedio: 4.30
+Curso: Monitoring and Observability for Development and DevOps, Promedio: 4.70
+Curso: Motivating Gen Z Learners: What Parents and Teachers Need to Know, Promedio: 4.90
+Curso: Motors and Motor Control Circuits, Promedio: 4.70
+Curso: Multi-Axis CNC Toolpaths, Promedio: 4.90
+Curso: Multiple Regression Analysis in Public Health , Promedio: 4.70
+Curso: Music Business  Specialization, Promedio: 4.80
+Curso: Music Education for Teachers Specialization, Promedio: 4.80
+Curso: Music Production Capstone, Promedio: 4.80
+Curso: Music Production Specialization, Promedio: 4.80
+Curso: Music for Wellness, Promedio: 4.60
+Curso: Musicianship: Chord Charts, Diatonic Chords, and Minor Keys, Promedio: 4.90
+Curso: Musicianship: Tensions, Harmonic Function, and Modal Interchange, Promedio: 4.90
+Curso: Musician’s Professional Toolbox: Your Portfolio Career Specialization, Promedio: 5.00
+Curso: Más que química, Promedio: 4.90
+Curso: Nanophotonics and Detectors, Promedio: 4.10
+Curso: Narrative Economics, Promedio: 4.80
+Curso: National Academy of Sports Medicine Nutrition Essentials, Promedio: 4.60
+Curso: Natural Disaster and Climate Change Risk Assessment Specialization, Promedio: 5.00
+Curso: Natural Language Processing Specialization, Promedio: 4.60
+Curso: Natural Language Processing in TensorFlow, Promedio: 4.60
+Curso: Natural Language Processing with Attention Models, Promedio: 4.40
+Curso: Natural Language Processing with Classification and Vector Spaces, Promedio: 4.60
+Curso: Natural Language Processing with Probabilistic Models, Promedio: 4.70
+Curso: Natural Language Processing with Sequence Models, Promedio: 4.50
+Curso: Negotiation Skills and Effective Communication           , Promedio: 4.60
+Curso: Negotiation skills: Negotiate and resolve conflict, Promedio: 4.70
+Curso: Network Automation Engineering Fundamentals Specialization, Promedio: 4.60
+Curso: Network Security & Database Vulnerabilities , Promedio: 4.70
+Curso: Networking Fundamentals, Promedio: 5.00
+Curso: Networking in Google Cloud: Defining and Implementing Networks, Promedio: 4.80
+Curso: Networking in Google Cloud: Hybrid Connectivity and Network Management, Promedio: 4.80
+Curso: Neuroscience and Neuroimaging Specialization, Promedio: 4.70
+Curso: Neuroscience of Leadership: Leading with Your Brain Specialization, Promedio: 4.90
+Curso: New Space: Access to space - Basics, Promedio: 4.70
+Curso: New paradigms in wastewater management, Promedio: 4.70
+Curso: Niños y Adolescentes en la cultura audiovisual y digital, Promedio: 4.80
+Curso: NoSQL, Big Data, and Spark Foundations Specialization, Promedio: 4.40
+Curso: Non-Alcoholic Fatty Liver Disease – The Essentials, Promedio: 4.80
+Curso: Non-Equilibrium Applications of Statistical Thermodynamics, Promedio: 4.40
+Curso: Numerical Methods for Engineers, Promedio: 4.90
+Curso: Nursing Informatics  Leadership Specialization, Promedio: 4.70
+Curso: Nutrition Education for the Consumer Specialization, Promedio: 4.70
+Curso: O Músico Contemporâneo Specialization, Promedio: 5.00
+Curso: OKR Certification: Leadership and Goal Setting, Promedio: 4.90
+Curso: Object Tracking and Motion Detection with Computer Vision, Promedio: 4.90
+Curso: Objetivos de desarrollo sostenible para América Latina y el Caribe, Promedio: 4.90
+Curso: Odesa: Jews in the Modern World, Promedio: 4.70
+Curso: Office Productivity Software Specialization, Promedio: 4.50
+Curso: Old Norse Mythology in the Sources, Promedio: 4.60
+Curso: Online Learning  Design for Educators Specialization, Promedio: 4.70
+Curso: Operating Systems Fundamentals, Promedio: 4.80
+Curso: Operational Risk Management: Frameworks & Strategies, Promedio: 4.60
+Curso: Operations Research (1): Models and Applications, Promedio: 4.80
+Curso: Operations Research (2): Optimization Algorithms, Promedio: 4.80
+Curso: Opioid Epidemic: From Evidence to Impact , Promedio: 4.70
+Curso: Opportunity Management in Salesforce, Promedio: 4.70
+Curso: Optical Efficiency and Resolution, Promedio: 4.10
+Curso: Optical Engineering Specialization, Promedio: 4.30
+Curso: Optimizing a Website for Google Search, Promedio: 4.70
+Curso: Oracle Autonomous Database Administration, Promedio: 4.50
+Curso: Oracle Cloud Infrastructure Architect Associate, Promedio: 4.80
+Curso: Oracle Cloud Infrastructure Architect Professional, Promedio: 4.90
+Curso: Oracle Cloud Infrastructure Foundations, Promedio: 4.70
+Curso: Oracle Cloud Infrastructure Operations Professional, Promedio: 4.80
+Curso: Oracle SQL Databases Specialization, Promedio: 4.60
+Curso: Organ Donation: From Death to Life , Promedio: 4.80
+Curso: Organisational behaviour: Know your people, Promedio: 4.80
+Curso: Organisational design: Know your organisation, Promedio: 4.90
+Curso: Outbreaks and Epidemics, Promedio: 4.80
+Curso: Outsmarting intermittency, Promedio: 4.60
+Curso: Overcoming Dyslexia, Promedio: 4.80
+Curso: PRINCÍPIOS GERAIS DA TÉCNICA DO VIOLINO E DA VIOLA DE ARCO, Promedio: 4.90
+Curso: Palliative Care Always Capstone Course, Promedio: 4.40
+Curso: Palliative Care Always Specialization, Promedio: 4.50
+Curso: Palo Alto Networks Cybersecurity Professional Certificate, Promedio: 4.60
+Curso: Pathway to Space Specialization, Promedio: 4.60
+Curso: Patient Safety Specialization, Promedio: 4.80
+Curso: Patient Safety and Quality Improvement: Developing a Systems View (Patient Safety I), Promedio: 4.80
+Curso: Payroll and Tax Fundamentals, Promedio: 4.60
+Curso: Pensamento Crítico, Lógica e Argumentação, Promedio: 4.70
+Curso: Pensamiento crítico: toma de decisiones razonadas, Promedio: 4.80
+Curso: People and Soft Skills for Professional and Personal Success Specialization, Promedio: 4.60
+Curso: People, Technology and the Future of Mobility , Promedio: 4.70
+Curso: Perform data science with Azure Databricks, Promedio: 3.40
+Curso: Personal Productivity, Time Management and Prioritization, Promedio: 4.50
+Curso: Phase Diagrams, Promedio: 4.50
+Curso: Photovoltaic Systems, Promedio: 4.60
+Curso: Physics 101 - Energy and Momentum, Promedio: 4.50
+Curso: Physics 101 - Forces and Kinematics , Promedio: 4.60
+Curso: Physics 101 - Rotational Motion and Gravitation , Promedio: 4.80
+Curso: PlanU: escoge la mejor carrera y universidad para ti, Promedio: 4.80
+Curso: Planificación del proyecto: reunir todos los elementos, Promedio: 4.80
+Curso: Planning with Climate Change in Mind, Promedio: 4.90
+Curso: Plant-Based Diets, Promedio: 4.50
+Curso: Platform Thinking: Innovation in digital business models era Specialization, Promedio: 4.90
+Curso: Play It Safe: Manage Security Risks, Promedio: 4.80
+Curso: Point of Care Testing for Sexually Transmitted Infections, Promedio: 4.60
+Curso: Population Health: Governance, Promedio: 4.40
+Curso: Population Health: Health & Health Behaviour, Promedio: 4.00
+Curso: Population Health: Panel Management Next Level, Promedio: 4.80
+Curso: Population Health: Predictive Analytics, Promedio: 4.60
+Curso: Population Health: Responsible Data Analysis, Promedio: 4.50
+Curso: Population Health: Study Design, Promedio: 4.30
+Curso: Positive Psychology: Applications and Interventions, Promedio: 4.80
+Curso: Positive Psychology: Character, Grit and Research Methods, Promedio: 4.40
+Curso: Positive Psychology: Martin E. P. Seligman’s Visionary Science, Promedio: 4.90
+Curso: Positive Psychology: Resilience Skills, Promedio: 4.90
+Curso: PostgreSQL for Everybody Specialization, Promedio: 4.70
+Curso: Poverty & Population: How Demographics Shape Policy, Promedio: 4.80
+Curso: Power System: Generation, Transmission and Protection  Specialization, Promedio: 4.70
+Curso: Power and Foreign Policy in International Relations, Promedio: 4.80
+Curso: Practical Data Science with MATLAB Specialization, Promedio: 4.80
+Curso: Practical Guide to Trading Specialization, Promedio: 4.40
+Curso: Practice Exam for CAPM Certification, Promedio: 4.30
+Curso: Practice Exam for Certified Scrum Master (CSM) Certification, Promedio: 5.00
+Curso: Practice Exam for CompTIA ITF+ Certification, Promedio: 4.90
+Curso: Pre-MBA Statistics, Promedio: 4.50
+Curso: Precalculus through Data and Modelling Specialization, Promedio: 4.70
+Curso: Precalculus: Mathematical Modeling, Promedio: 4.70
+Curso: Precalculus: Periodic Functions, Promedio: 4.70
+Curso: Precalculus: Relations and Functions, Promedio: 4.70
+Curso: Prediction Models with Sports Data, Promedio: 4.60
+Curso: Predictive Modeling, Model Fitting, and Regression Analysis, Promedio: 4.40
+Curso: Preparar datos para la exploración, Promedio: 4.70
+Curso: Prepare Data for Exploration, Promedio: 4.80
+Curso: Prepare for DP-100: Data Science on Microsoft Azure Exam, Promedio: 4.60
+Curso: Preparing for Google Cloud Certification: Cloud Architect Professional Certificate, Promedio: 4.80
+Curso: Preparing for Google Cloud Certification: Cloud Architect Professional Certificate 日本語版 Professional Certificate, Promedio: 4.70
+Curso: Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate, Promedio: 4.60
+Curso: Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate en Español Specialization, Promedio: 4.80
+Curso: Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate 日本語版 Professional Certificate, Promedio: 4.50
+Curso: Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate, Promedio: 4.80
+Curso: Preparing for Google Cloud Certification: Cloud Developer Professional Certificate, Promedio: 4.70
+Curso: Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate, Promedio: 4.80
+Curso: Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate en Español Specialization, Promedio: 4.80
+Curso: Preparing for Google Cloud Certification: Cloud Network Engineer Professional Certificate, Promedio: 4.70
+Curso: Preparing for Google Cloud Certification: Cloud Security Engineer Professional Certificate, Promedio: 4.80
+Curso: Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate, Promedio: 4.60
+Curso: Preparing for Your Associate Cloud Engineer Journey, Promedio: 4.70
+Curso: Preparing for Your CertNexus Certification Exam, Promedio: 4.80
+Curso: Preparing for Your Professional Cloud Security Engineer Journey, Promedio: 4.70
+Curso: Preparing for the AZ-900 Microsoft Azure Fundamentals Exam, Promedio: 4.70
+Curso: Preparing for the Google Cloud Professional Cloud Architect Exam 日本語版, Promedio: 4.60
+Curso: Preparing for the Google Cloud Professional Data Engineer Exam 日本語版, Promedio: 4.70
+Curso: Preparing for your Professional Cloud Architect Journey, Promedio: 4.70
+Curso: Present with Purpose: Create/Deliver Effective Presentations, Promedio: 4.60
+Curso: Pressure, Force, Motion, and Humidity Sensors , Promedio: 4.70
+Curso: Pricing Strategy Optimization Specialization, Promedio: 4.80
+Curso: Pricing Strategy in Practice, Promedio: 4.70
+Curso: Primary and Secondary Batteries, Promedio: 4.90
+Curso: Primate Conservation, Promedio: 4.50
+Curso: Primeros Auxilios Psicológicos , Promedio: 4.90
+Curso: Primeros pasos en el proceso de diseño de UX: Empatizar, definir e idear, Promedio: 4.90
+Curso: Principles of Leadership: Leading Oneself Specialization, Promedio: 4.80
+Curso: Principles of Leadership: Leading Technical Organizations Specialization, Promedio: 4.50
+Curso: Principles of Leadership: Leading Technical Teams Specialization, Promedio: 5.00
+Curso: Principles of Public Relations, Promedio: 4.70
+Curso: Principles of Sustainable Finance , Promedio: 4.70
+Curso: Principles of UX/UI Design, Promedio: 4.70
+Curso: Print and Digital Elements of Design: Branding and User Experience, Promedio: 4.70
+Curso: Privacy and Standardisation Specialization, Promedio: 4.20
+Curso: Privacy in Europe, Promedio: 4.40
+Curso: Privacy in the USA, Promedio: 4.30
+Curso: Privacy in the Western World, Promedio: 4.50
+Curso: Probability & Statistics for Machine Learning & Data Science, Promedio: 4.60
+Curso: Probability Theory: Foundation for Data Science, Promedio: 4.50
+Curso: Proceso de datos sucios a datos limpios, Promedio: 4.80
+Curso: Process Data from Dirty to Clean, Promedio: 4.80
+Curso: Procurement & Sourcing Introduction, Promedio: 4.70
+Curso: Procurement Basics, Promedio: 4.70
+Curso: Product Analytics and AI, Promedio: 4.70
+Curso: Product Cost and Investment Cash Flow Analysis , Promedio: 4.40
+Curso: Product Ideation, Design, and Management Specialization, Promedio: 4.50
+Curso: Product Management, Promedio: 4.60
+Curso: Product Management Essentials, Promedio: 4.60
+Curso: Product Management: An Introduction, Promedio: 4.50
+Curso: Production Machine Learning Systems, Promedio: 4.60
+Curso: Professional Selling: 3 Steps to High-Performance Specialization, Promedio: 4.70
+Curso: Professionalism in Allied Health, Promedio: 4.80
+Curso: Profundización y actualización en Enfermedad Cardiovascular, Promedio: 4.60
+Curso: Programa Especializado en Gerencia de Proyectos Complejos Specialization, Promedio: 4.80
+Curso: Programación en Python, Promedio: 4.50
+Curso: Programación en Python II: aprendiendo a estructurar datos, Promedio: 4.70
+Curso: Programming Fundamentals in Kotlin, Promedio: 4.70
+Curso: Programming Fundamentals in Swift, Promedio: 4.80
+Curso: Programming Reactive Systems, Promedio: 3.90
+Curso: Programming for Everybody (Getting Started with Python), Promedio: 4.80
+Curso: Programming in C++: A Hands-on Introduction Specialization, Promedio: 4.60
+Curso: Programming in Python, Promedio: 4.60
+Curso: Programming in Python: A Hands-on Introduction Specialization, Promedio: 4.50
+Curso: Programming with JavaScript, Promedio: 4.70
+Curso: Project Execution: Running the Project, Promedio: 4.80
+Curso: Project Initiation: Starting a Successful Project, Promedio: 4.80
+Curso: Project Lifecycle, Information Sharing, and Risk Management, Promedio: 4.60
+Curso: Project Management & Other Tools for Career Development Specialization, Promedio: 4.70
+Curso: Project Management Capstone, Promedio: 5.00
+Curso: Project Management Communication, Stakeholders & Leadership , Promedio: 4.60
+Curso: Project Management Principles and Practices Specialization, Promedio: 4.70
+Curso: Project Management Specialization, Promedio: 4.80
+Curso: Project Management: Foundations and Initiation, Promedio: 4.80
+Curso: Project Management: Tools, Approaches, Behavioural Skills  Specialization, Promedio: 4.90
+Curso: Project Planning and Execution, Promedio: 4.80
+Curso: Project Planning: Putting It All Together, Promedio: 4.80
+Curso: Promote the Ethical Use of Data-Driven Technologies, Promedio: 4.70
+Curso: Prompt Engineering for ChatGPT, Promedio: 4.80
+Curso: Providing Technical Support for AWS Workloads, Promedio: 4.80
+Curso: Proyecto Final: Diseño y Gestión de Proyectos de Desarrollo, Promedio: 4.90
+Curso: Proyecto de diseño instruccional para el aprendizaje activo en ambientes digitales, Promedio: 4.50
+Curso: Psicología , Promedio: 4.80
+Curso: Psicología Specialization, Promedio: 4.80
+Curso: Psicología de la Percepción, Promedio: 4.90
+Curso: Psicología del Aprendizaje, Promedio: 4.90
+Curso: Psychological Research Specialization, Promedio: 4.70
+Curso: Public Health Perspectives on Sustainable Diets, Promedio: 4.80
+Curso: Purpose at Work: A Course for Employees and Leaders, Promedio: 4.80
+Curso: Put It to Work: Prepare for Cybersecurity Jobs, Promedio: 4.80
+Curso: PwC GST Taxation Executive  Professional Certificate, Promedio: 4.60
+Curso: Python 3 Programming Specialization, Promedio: 4.70
+Curso: Python Basics, Promedio: 4.80
+Curso: Python Basics for Online Research Specialization, Promedio: 3.30
+Curso: Python Classes and Inheritance, Promedio: 4.70
+Curso: Python Data Products for Predictive Analytics Specialization, Promedio: 4.20
+Curso: Python Data Structures, Promedio: 4.90
+Curso: Python Essentials for MLOps, Promedio: 4.20
+Curso: Python Functions, Files, and Dictionaries, Promedio: 4.90
+Curso: Python Packages for Data Science, Promedio: 4.50
+Curso: Python Programming Fundamentals, Promedio: 3.40
+Curso: Python Project for Data Engineering, Promedio: 4.60
+Curso: Python Project for Data Science, Promedio: 4.50
+Curso: Python and Pandas for Data Engineering, Promedio: 4.60
+Curso: Python for Cybersecurity Specialization, Promedio: 4.50
+Curso: Python for Data Science, Promedio: 3.70
+Curso: Python for Data Science, AI & Development, Promedio: 4.60
+Curso: Python, Bash and SQL Essentials for Data Engineering Specialization, Promedio: 4.50
+Curso: Python: A Guided Journey from Introduction to Application Specialization, Promedio: 3.50
+Curso: Qualitative Comparative Analysis (QCA), Promedio: 4.80
+Curso: Qualitative Research Design, Promedio: 4.80
+Curso: Qualitative Research Design and Methods for Public Health Specialization, Promedio: 4.80
+Curso: Quantum Mechanics, Promedio: 4.50
+Curso: Quantum Mechanics for Engineers Specialization, Promedio: 4.30
+Curso: Questionnaire Design for Social Surveys, Promedio: 4.50
+Curso: R Programming, Promedio: 4.50
+Curso: RPA Basics and Introduction to UiPath, Promedio: 4.70
+Curso: Raison d’être et Entreprise à Mission, Promedio: 4.60
+Curso: Rapid Prototyping Using 3D Printing Specialization, Promedio: 4.70
+Curso: Rapid Prototyping and Tooling Specialization, Promedio: 5.00
+Curso: Rastreamento de contato da COVID-19, Promedio: 4.80
+Curso: Rastreo de los contactos de la COVID-19, Promedio: 4.80
+Curso: React Basics, Promedio: 4.70
+Curso: Ready to Roll – The Video Production Process, Promedio: 5.00
+Curso: Ready, Set, Future! Introduction to Futures Thinking, Promedio: 4.80
+Curso: Real-Time Embedded Systems Concepts and Practices, Promedio: 3.80
+Curso: Real-Time Embedded Systems Specialization, Promedio: 3.90
+Curso: Real-Time Embedded Systems Theory and Analysis, Promedio: 4.50
+Curso: Real-Time Mission-Critical Systems Design, Promedio: 4.40
+Curso: Real-World Cloud PM 1 of 3: Cloud Business and Technology, Promedio: 4.60
+Curso: Real-World Engineering Management Specialization, Promedio: 4.80
+Curso: Real-World Product Management Specialization, Promedio: 4.50
+Curso: Rebuilding Our Relationship with Food, Promedio: 4.90
+Curso: Reclaiming the Street for Livable Urban Spaces, Promedio: 4.70
+Curso: Recommender Systems Specialization, Promedio: 4.40
+Curso: Recruiting for Diversity and Inclusion Specialization, Promedio: 4.10
+Curso: Red de sentidos: Arte, educación y procesos creativos, Promedio: 4.80
+Curso: Regression Analysis: Simplify Complex Data Relationships, Promedio: 4.70
+Curso: Regulatory Compliance Specialization, Promedio: 4.80
+Curso: Reigniting Employee Engagement, Promedio: 4.90
+Curso: Reimagining Blackness and Architecture, Promedio: 4.80
+Curso: Reinforcement Learning Specialization, Promedio: 4.80
+Curso: Relational Database Administration (DBA), Promedio: 4.50
+Curso: Relational Database Design, Promedio: 4.60
+Curso: Relationship Management and Business Development , Promedio: 4.40
+Curso: Reliable Google Cloud Infrastructure: Design and Process, Promedio: 4.70
+Curso: Renewable Energy Futures, Promedio: 4.80
+Curso: Renewable Energy Projects, Promedio: 4.80
+Curso: Renewable Energy Specialization, Promedio: 4.80
+Curso: Renewable Energy Technology Fundamentals, Promedio: 4.80
+Curso: Renewable Energy: Fundamentals and Job Opportunities, Promedio: 4.70
+Curso: Renewable Power and Electricity Systems, Promedio: 4.70
+Curso: Research Proposal: Initiating Research, Promedio: 4.60
+Curso: Research for Impact, Promedio: 4.90
+Curso: Researcher Management and Leadership Training, Promedio: 4.80
+Curso: Resilient Teaching Through Times of Crisis and Change, Promedio: 4.80
+Curso: Responsive Website Development and Design Specialization, Promedio: 4.60
+Curso: Riesgos y oportunidades empresariales en una economía globalizada, Promedio: 4.90
+Curso: Risk Management Specialization, Promedio: 4.60
+Curso: Road to the CISO – Culminating Project Course, Promedio: 5.00
+Curso: Robotic Process Automation (RPA) Specialization, Promedio: 4.70
+Curso: Robotics Specialization, Promedio: 4.30
+Curso: Russian History: from Lenin to Putin, Promedio: 4.70
+Curso: Rust Fundamentals, Promedio: 4.20
+Curso: SAP Technology Consultant  Professional Certificate, Promedio: 4.70
+Curso: SAS Advanced Programmer Professional Certificate, Promedio: 4.80
+Curso: SAS Programmer Professional Certificate, Promedio: 4.80
+Curso: SAS Statistical Business Analyst Professional Certificate, Promedio: 4.70
+Curso: SAS Visual Business Analytics Professional Certificate, Promedio: 4.70
+Curso: SEL Capstone, Promedio: 4.60
+Curso: SEL for Students: A Path to Social Emotional Well-Being, Promedio: 4.80
+Curso: SQL for Data Science, Promedio: 4.60
+Curso: SQL for Data Science Capstone Project, Promedio: 4.20
+Curso: SQL for Data Science with R, Promedio: 4.30
+Curso: SQL für Data Science, Promedio: 4.40
+Curso: SQL para el desarrollo web, Promedio: 4.80
+Curso: Sales and CRM Overview, Promedio: 4.60
+Curso: Salesforce Basics, Promedio: 4.30
+Curso: Salesforce Fundamentals Specialization, Promedio: 4.30
+Curso: Salesforce Sales Development Representative Professional Certificate, Promedio: 4.50
+Curso: Salesforce Sales Operations Professional Certificate, Promedio: 4.60
+Curso: Salud mental y atención comunitaria, Promedio: 4.80
+Curso: Salud mental y atención psicosocial , Promedio: 4.90
+Curso: Sampling People, Networks and Records, Promedio: 4.40
+Curso: Satisfaction Guaranteed: Develop Customer Loyalty Online, Promedio: 4.80
+Curso: Scaling with Google Cloud Operations, Promedio: 4.80
+Curso: Science Communication: Communicating Trustworthy Information in the Digital World, Promedio: 4.50
+Curso: Science Literacy , Promedio: 4.40
+Curso: Science Matters: Let's Talk About COVID-19, Promedio: 4.20
+Curso: Science and Engineering of Climate Change, Promedio: 4.80
+Curso: Science of Diet and Exercise Specialization, Promedio: 4.60
+Curso: Science of Exercise, Promedio: 4.80
+Curso: Science of Fat Metabolism, Promedio: 4.30
+Curso: Scrum Master Capstone, Promedio: 5.00
+Curso: Scrum Master Certification: Scrum Methodologies, Promedio: 4.70
+Curso: Scrum Master Specialization, Promedio: 5.00
+Curso: Search Engine Optimization (SEO) Specialization, Promedio: 4.70
+Curso: Secure Access with Azure Active Directory, Promedio: 4.20
+Curso: Secure Coding Practices Specialization, Promedio: 4.50
+Curso: Secure Software Design Specialization, Promedio: 4.70
+Curso: Security Analyst Fundamentals Specialization, Promedio: 4.80
+Curso: Security Best Practices in Google Cloud, Promedio: 4.60
+Curso: Security and Privacy for Big Data - Part 1, Promedio: 4.70
+Curso: Security and Privacy for Big Data - Part 2, Promedio: 4.70
+Curso: Security in Google Cloud Specialization, Promedio: 4.70
+Curso: Security in Google Cloud 日本語版 Specialization, Promedio: 4.90
+Curso: Seeing Through Photographs, Promedio: 4.80
+Curso: Seismology to Earthquake Engineering, Promedio: 4.00
+Curso: Selenium WebDriver with Python, Promedio: 3.10
+Curso: Self-Driving Cars Specialization, Promedio: 4.70
+Curso: Semiconductor Devices Specialization, Promedio: 4.40
+Curso: Semiconductor Packaging Manufacturing , Promedio: 4.80
+Curso: Semiconductor Packaging Specialization, Promedio: 4.60
+Curso: Semiconductor Physics, Promedio: 4.40
+Curso: Sensor Manufacturing and Process Control, Promedio: 4.60
+Curso: Sensors and Sensor Circuit Design, Promedio: 4.60
+Curso: Sequences, Time Series and Prediction, Promedio: 4.70
+Curso: Serverless Data Processing with Dataflow Specialization, Promedio: 4.10
+Curso: Service Transformed: Lessons in U.S. Veteran Centered Care, Promedio: 4.30
+Curso: Severe to Profound Intellectual Disability: Circles of Care and Education, Promedio: 4.80
+Curso: Sexualidad...mucho más que sexo, Promedio: 4.80
+Curso: Share Data Through the Art of Visualization, Promedio: 4.60
+Curso: Silicon Thin Film Solar Cells, Promedio: 4.30
+Curso: Simple Regression Analysis in Public Health , Promedio: 4.70
+Curso: Simulation Analysis for Mechanical Engineers with Autodesk Fusion 360, Promedio: 4.80
+Curso: Singing Popular Music, Promedio: 4.50
+Curso: Sistemas difusos, Promedio: 5.00
+Curso: Site Reliability Engineering: Measuring and Managing Reliability, Promedio: 4.50
+Curso: Six Sigma Black Belt Specialization, Promedio: 4.50
+Curso: Sleep: Neurobiology, Medicine, and Society, Promedio: 4.80
+Curso: Smart Analytics, Machine Learning, and AI on GCP 日本語版, Promedio: 4.50
+Curso: Smart Analytics, Machine Learning, and AI on Google Cloud, Promedio: 4.60
+Curso: So You Think You Know Tango?, Promedio: 4.60
+Curso: Social Determinants of Health , Promedio: 4.70
+Curso: Social Media and Social Content Strategy, Promedio: 4.40
+Curso: Social Network Analysis, Promedio: 4.70
+Curso: Social Policy for Social Services & Health Practitioners  Specialization, Promedio: 4.80
+Curso: Social Work Practice: Advocating Social Justice and Change, Promedio: 4.80
+Curso: Software Architecture Patterns for Big Data, Promedio: 3.30
+Curso: Software Architecture for Big Data Specialization, Promedio: 3.10
+Curso: Software Developer Career Guide and Interview Preparation, Promedio: 4.70
+Curso: Software Development Lifecycle Specialization, Promedio: 4.60
+Curso: Software Engineering Specialization, Promedio: 4.50
+Curso: Software Engineering Tools and Practices Specialization, Promedio: 3.80
+Curso: Software Product Management Specialization, Promedio: 4.70
+Curso: Software Testing and Automation Specialization, Promedio: 4.20
+Curso: Solar Energy Basics, Promedio: 4.80
+Curso: Solar Energy Codes, Permitting and Zoning, Promedio: 4.70
+Curso: Solar Energy Systems Overview, Promedio: 4.70
+Curso: Solar Energy and Electrical System Design, Promedio: 4.70
+Curso: Solar Energy for Engineers, Architects and Code Inspectors Specialization, Promedio: 4.70
+Curso: Solve Business Problems with AI and Machine Learning, Promedio: 4.50
+Curso: Solving Problems with Creative and Critical Thinking, Promedio: 4.60
+Curso: Songwriting: Writing the Lyrics, Promedio: 4.80
+Curso: Songwriting: Writing, Arranging, and Producing Music Specialization, Promedio: 4.80
+Curso: Sound and Sonification Design for Interactive Learning Tools, Promedio: 3.90
+Curso: Sound the Alarm: Detection and Response, Promedio: 4.80
+Curso: Space Medicine, Promedio: 4.80
+Curso: Spacecraft Dynamics Capstone: Mars Mission, Promedio: 4.60
+Curso: Spacecraft Dynamics and Control Specialization, Promedio: 4.80
+Curso: Speaking and Presenting: Conversation Starters, Promedio: 4.60
+Curso: Speaking and Presenting: Pitches and Persuasion, Promedio: 4.60
+Curso: Speaking and Presenting: Poise, Promedio: 4.60
+Curso: Speaking and Presenting: Tact, Promedio: 4.50
+Curso: Specialty Topics: Biology Across Disciplines, Promedio: 4.50
+Curso: Splunk Knowledge Manager 101, Promedio: 4.80
+Curso: Splunk Search Expert 101, Promedio: 4.70
+Curso: Splunk Search Expert 102, Promedio: 4.70
+Curso: Splunk Search Expert 103, Promedio: 4.80
+Curso: Sports Performance Analytics Specialization, Promedio: 4.50
+Curso: Stakeholder Management  , Promedio: 4.90
+Curso: Start the UX Design Process: Empathize, Define, and Ideate, Promedio: 4.80
+Curso: Starting Your Career with AWS Cloud Specialization, Promedio: 4.80
+Curso: State Estimation and Localization for Self-Driving Cars, Promedio: 4.70
+Curso: Statistical Analysis with R for Public Health Specialization, Promedio: 4.70
+Curso: Statistical Inference and Hypothesis Testing in Data Science Applications, Promedio: 4.80
+Curso: Statistical Inference for Estimation in Data Science, Promedio: 4.10
+Curso: Statistical Modeling for Data Science Applications Specialization, Promedio: 4.20
+Curso: Statistical Thermodynamics Specialization, Promedio: 4.40
+Curso: Statistics with Python Specialization, Promedio: 4.60
+Curso: Strategic Leadership: Impact, Change, and Decision-Making Specialization, Promedio: 4.90
+Curso: Strategies for Assisted Living Communities during COVID-19, Promedio: 4.80
+Curso: Strategies for Converting and Retaining Customers Online, Promedio: 4.70
+Curso: Strategies for Senior Housing Communities during COVID-19, Promedio: 4.80
+Curso: Strategising: Management for Global Competitive Advantage Specialization, Promedio: 4.80
+Curso: Street Experiments for Sustainable and Resilient cities, Promedio: 4.80
+Curso: Structured Approach to Problem Solving, Promedio: 4.70
+Curso: Study Designs in Epidemiology, Promedio: 4.80
+Curso: Studying at Japanese Universities, Promedio: 4.80
+Curso: Successful Negotiation: Essential Strategies and Skills, Promedio: 4.80
+Curso: Suffering and the Human Condition, Promedio: 4.60
+Curso: Suicide Prevention, Promedio: 4.60
+Curso: Summary Statistics in Public Health , Promedio: 4.80
+Curso: Superbosses: Managing Talent & Leadership, Promedio: 4.90
+Curso: Supervised Machine Learning: Regression and Classification , Promedio: 4.90
+Curso: Supply Chain Analytics Specialization, Promedio: 4.50
+Curso: Supply Chain Finance and Blockchain Technology Specialization, Promedio: 4.60
+Curso: Supply Chain Planning, Promedio: 4.50
+Curso: Supporting Families and Caregivers, Promedio: 4.50
+Curso: Surveillance Systems: Analysis, Dissemination, and Special Systems, Promedio: 4.70
+Curso: Surveillance Systems: The Building Blocks, Promedio: 4.70
+Curso: Survival Analysis in R for Public Health, Promedio: 4.50
+Curso: Sustainable Cities and Communities Specialization, Promedio: 4.70
+Curso: Sustainable Fashion, Promedio: 4.80
+Curso: Sustainable Urban Regeneration, Promedio: 4.80
+Curso: Sustainable Urban Water Systems, Promedio: 4.90
+Curso: Swift 5 iOS Application Developer Specialization, Promedio: 4.50
+Curso: Symptom Management in Palliative Care, Promedio: 4.50
+Curso: Systems Engineering, Promedio: 4.80
+Curso: Tableau Business Intelligence Analyst  Professional Certificate, Promedio: 4.70
+Curso: Taiwan Law in Focus: Economy, Society and Democracy, Promedio: 4.80
+Curso: Talend Data Integration Certification Preparation training, Promedio: 4.70
+Curso: Talent Acquisition, Promedio: 4.80
+Curso: Tally Bookkeeper Professional Certificate, Promedio: 4.60
+Curso: Teacher SEL: Programs, Possibilities, and Contexts, Promedio: 4.70
+Curso: Teaching Children with Visual Impairment: Creating Empowering Classrooms, Promedio: 4.90
+Curso: Teaching Popular Music in the Classroom, Promedio: 4.70
+Curso: Teaching Writing Process, Promedio: 4.30
+Curso: Teaching Writing Specialization, Promedio: 4.20
+Curso: Teaching and Assessing Clinical Skills, Promedio: 4.70
+Curso: Teaching in University Science Laboratories (Developing Best Practice), Promedio: 4.60
+Curso: Teaching with Art: Using Inquiry, Activities, and Themes Specialization, Promedio: 4.90
+Curso: Teamwork Skills: Communicating Effectively in Groups, Promedio: 4.70
+Curso: Technical Communication Specialization, Promedio: 4.20
+Curso: Techniques of Design-Oriented Analysis, Promedio: 4.70
+Curso: Technology Commercialization, Part 1: Setting up your Idea Filtering System, Promedio: 4.20
+Curso: Tecnologías para la Innovación Educativa, Promedio: 5.00
+Curso: TensorFlow on Google Cloud, Promedio: 4.40
+Curso: TensorFlow: Advanced Techniques Specialization, Promedio: 4.80
+Curso: TensorFlow: Data and Deployment Specialization, Promedio: 4.70
+Curso: Terrorism and Counterterrorism: Comparing Theory and Practice, Promedio: 4.80
+Curso: Text Marketing Analytics Specialization, Promedio: 3.90
+Curso: Textual Elements of Design: Fonts, Typography, and Spacing, Promedio: 4.70
+Curso: The 360º Corporation: Tools for Achieving Corporate Purpose, Promedio: 4.80
+Curso: The ABC of sustainability , Promedio: 4.60
+Curso: The Art and Science of Economic Policy, Promedio: 4.60
+Curso: The Art of Music Production, Promedio: 4.80
+Curso: The Art of Visual Storytelling Specialization, Promedio: 4.70
+Curso: The Art of Vocal Production, Promedio: 4.70
+Curso: The Basics of Trauma Surgery, Promedio: 4.50
+Curso: The Big Stuff: Evolution and Ecology, Promedio: 4.60
+Curso: The Blues: Understanding and Performing an American Art Form, Promedio: 4.80
+Curso: The Business of Music Production Specialization, Promedio: 4.90
+Curso: The Business of Product Management I, Promedio: 4.50
+Curso: The Business of Product Management II, Promedio: 4.70
+Curso: The Changing Status and Perception of Animals, Promedio: 4.70
+Curso: The Classical Linear Regression Model, Promedio: 3.40
+Curso: The Construction Industry: The Way Forward, Promedio: 4.70
+Curso: The Cosmopolitan Medieval Arabic World, Promedio: 4.80
+Curso: The DIY Musician Specialization, Promedio: 4.70
+Curso: The Data Science of Health Informatics, Promedio: 4.60
+Curso: The Diversity of Exoplanets, Promedio: 4.80
+Curso: The Engineering of Structures Around Us Specialization, Promedio: 4.90
+Curso: The Finite Element Method for Problems in Physics, Promedio: 4.60
+Curso: The Foundations of Cybersecurity, Promedio: 4.80
+Curso: The Full Stack, Promedio: 4.60
+Curso: The Future of Payment Technologies, Promedio: 4.70
+Curso: The GRC Approach to Managing Cybersecurity, Promedio: 4.80
+Curso: The Growth Mindset, Promedio: 4.80
+Curso: The History of Medicine: Philosophy, Science, and Psychology, Promedio: 4.80
+Curso: The Holocaust: The Destruction of European Jewry, Promedio: 4.60
+Curso: The Influence of Social Determinants on Health Specialization, Promedio: 4.60
+Curso: The Integration of Art and Science in Modern Dental Medicine Specialization, Promedio: 4.80
+Curso: The Journey to Diversity, Inclusion and Belonging Specialization, Promedio: 4.20
+Curso: The Language of Design: Form and Meaning, Promedio: 4.60
+Curso: The Little Stuff: Energy, Cells, and Genetics, Promedio: 4.60
+Curso: The Music of the Beatles, Promedio: 4.80
+Curso: The Music of the Rolling Stones, 1962-1974, Promedio: 4.80
+Curso: The Nature of Data and Relational Database Design, Promedio: 4.50
+Curso: The Nature of Genius, Promedio: 4.80
+Curso: The Need for Systems Engineering, Promedio: 4.80
+Curso: The Neuroscience of Personal Excellence, Promedio: 4.70
+Curso: The North Awakens, Promedio: 4.30
+Curso: The Nuts and Bolts of Machine Learning, Promedio: 4.80
+Curso: The Outcomes and Interventions of Health Informatics, Promedio: 4.50
+Curso: The Path to Insights: Data Models and Pipelines, Promedio: 4.70
+Curso: The Piano Sonata: Origins to Mozart, Promedio: 4.90
+Curso: The Piano Sonata: Russian and 20th-21st Century Composers, Promedio: 4.80
+Curso: The Power of Machine Learning: Boost Business, Accumulate Clicks, Fight Fraud, and Deny Deadbeats, Promedio: 4.80
+Curso: The Power of Statistics, Promedio: 4.80
+Curso: The Science of Success: What Researchers Know that You Should Know, Promedio: 4.80
+Curso: The Science of Well-Being for Teens, Promedio: 4.90
+Curso: The Singer Songwriter Specialization, Promedio: 4.80
+Curso: The Social and Technical Context of Health Informatics, Promedio: 4.20
+Curso: The Sun and the Total Eclipse of August 2017, Promedio: 4.60
+Curso: The Sustainability Imperative, Promedio: 4.90
+Curso: The Teacher's Social and Emotional Learning, Promedio: 4.70
+Curso: The Technology of Music Production, Promedio: 4.80
+Curso: Theory of Angular Momentum, Promedio: 4.00
+Curso: Think Outside the Inbox: Email Marketing, Promedio: 4.80
+Curso: Tidyverse Skills for Data Science in R Specialization, Promedio: 4.60
+Curso: Tools for Data Science, Promedio: 4.50
+Curso: Tools for Exploratory Data Analysis in Business, Promedio: 4.80
+Curso: Tools of the Trade: Linux and SQL, Promedio: 4.80
+Curso: Total Data Quality Specialization, Promedio: 4.40
+Curso: Trade, Immigration and Exchange Rates in a Globalized World, Promedio: 4.80
+Curso: Training and Learning Online, Promedio: 4.70
+Curso: Transformación digital de Gobiernos Specialization, Promedio: 4.80
+Curso: Transformer Models and BERT Model, Promedio: 3.70
+Curso: Transforming the Fashion Business Specialization, Promedio: 4.70
+Curso: Transgender Medicine for General Medical Providers, Promedio: 4.80
+Curso: Transistor - Field Effect Transistor and Bipolar Junction Transistor, Promedio: 4.20
+Curso: Transitions in Care from Survivorship to Hospice, Promedio: 4.30
+Curso: Translating Basic Research into Research for Humans , Promedio: 4.50
+Curso: Translational Science  Specialization, Promedio: 4.10
+Curso: Transmission electron microscopy for materials science, Promedio: 4.60
+Curso: Trees and Graphs: Basics, Promedio: 4.70
+Curso: Tropical Forest Landscapes 101: Conservation & Restoration, Promedio: 4.90
+Curso: Troubleshooting and Debugging Techniques, Promedio: 4.60
+Curso: Trustworthy Generative AI, Promedio: 4.80
+Curso: Turn Ethical Frameworks into Actionable Steps, Promedio: 4.60
+Curso: U.S. Health Law Fundamentals, Promedio: 4.90
+Curso: US Social Services Compared, Promedio: 4.80
+Curso: US Social Services: Where did they come from?, Promedio: 4.90
+Curso: UX Design: From Concept to Prototype, Promedio: 4.80
+Curso: UX Research at Scale: Surveys, Analytics, Online Testing, Promedio: 4.30
+Curso: Ukraine: History, Culture and Identities, Promedio: 4.70
+Curso: Uncommon Sense Teaching Specialization, Promedio: 5.00
+Curso: Understanding Clinical Research: Behind the Statistics, Promedio: 4.80
+Curso: Understanding Medical Research: Your Facebook Friend is Wrong, Promedio: 4.90
+Curso: Understanding Modern Physics I: Relativity and Cosmology, Promedio: 4.70
+Curso: Understanding Modern Physics II: Quantum Mechanics and Atoms, Promedio: 4.60
+Curso: Understanding Modern Physics III: Simplicity and Complexity, Promedio: 4.80
+Curso: Understanding Patient Perspectives on Medications, Promedio: 4.80
+Curso: Understanding and Visualizing Data with Python, Promedio: 4.70
+Curso: Understanding economic policymaking, Promedio: 4.80
+Curso: Unix System Basics, Promedio: 4.60
+Curso: Unix and Bash for Beginners Specialization, Promedio: 4.30
+Curso: Unraveling the Cycling City, Promedio: 4.90
+Curso: Unsupervised Learning, Recommenders, Reinforcement Learning, Promedio: 4.90
+Curso: Urban Air Mobility, Promedio: 4.60
+Curso: Urban Nature: Connecting Cities, Sustainability and Innovation, Promedio: 4.70
+Curso: Use Tableau for Your Data Science Workflow Specialization, Promedio: 4.00
+Curso: User Experience & Interaction Design for AR/VR/MR/XR, Promedio: 4.70
+Curso: User Experience Research and Design Specialization, Promedio: 4.80
+Curso: Using Databases with Python, Promedio: 4.80
+Curso: Using Machine Learning in Trading and Finance, Promedio: 3.90
+Curso: Using Public Policy for Social Change, Promedio: 4.90
+Curso: Using Python to Access Web Data, Promedio: 4.80
+Curso: Using Python to Interact with the Operating System, Promedio: 4.70
+Curso: Uso prudente de antimicrobianos en el entorno hospitalario, Promedio: 4.90
+Curso: Validity and Bias in Epidemiology, Promedio: 4.90
+Curso: Value-Based Care Specialization, Promedio: 4.60
+Curso: Value-Based Care: Introduction to Value-Based Care and the U.S. Healthcare System, Promedio: 4.70
+Curso: Value-Based Care: Managing Processes to Improve Outcomes, Promedio: 4.70
+Curso: Value-Based Care: Population Health, Promedio: 4.70
+Curso: Value-Based Care: Quality Improvement in Organizations, Promedio: 4.80
+Curso: Value-Based Care: Reimbursement Models, Promedio: 4.50
+Curso: Valuing nature and people to inform business decision-making, Promedio: 4.70
+Curso: Ve a lo seguro: Gestiona los riesgos de seguridad, Promedio: 4.90
+Curso: Vector Calculus for Engineers, Promedio: 4.80
+Curso: Version Control, Promedio: 4.60
+Curso: Virtual Agent Development in Dialogflow CX for Citizen Devs, Promedio: 4.50
+Curso: Virtual Agent Development in Dialogflow CX for Software Devs, Promedio: 3.80
+Curso: Virtual Reality Specialization, Promedio: 4.70
+Curso: Visionary leadership, identity & motivation: Become a meaning maker, Promedio: 4.80
+Curso: Visual Perception for Self-Driving Cars, Promedio: 4.70
+Curso: Visualizing Women's Work: Using Art Media for Social Justice, Promedio: 4.50
+Curso: Vital Skills for Data Science Specialization, Promedio: 4.50
+Curso: Vivre avec le TDAH à travers les âges, Promedio: 4.90
+Curso: Voces de cambio social, Promedio: 4.80
+Curso: Voice Disorders: What Patients and Professionals Need to Know, Promedio: 4.90
+Curso: Vozes da Mudança Social, Promedio: 4.70
+Curso: Vulnerabilidades y pruebas de penetración, Promedio: 4.60
+Curso: Water in the Western United States, Promedio: 4.80
+Curso: Water: an essential resource, Promedio: 4.70
+Curso: Web Application Technologies and Django, Promedio: 4.70
+Curso: Web Applications for Everybody Specialization, Promedio: 4.80
+Curso: Web Design for Everybody: Basics of Web Development & Coding Specialization, Promedio: 4.80
+Curso: Web Technologies and Security Specialization, Promedio: 4.40
+Curso: Web3 and Blockchain Leadership for Transformation, Promedio: 4.60
+Curso: Web3 and Blockchain Transformations in Global Supply Chains, Promedio: 4.60
+Curso: Web3 and Blockchain in Global Commerce Specialization, Promedio: 4.60
+Curso: Weight Management: Beyond Balancing Calories, Promedio: 4.70
+Curso: Welcome to Game Theory, Promedio: 4.70
+Curso: Welcome to Munich, Promedio: 4.50
+Curso: What is Climate Change?, Promedio: 4.80
+Curso: What is Data Science? , Promedio: 4.70
+Curso: What is the Metaverse?, Promedio: 4.60
+Curso: WhatsApp Business Platform for Developers, Promedio: 4.50
+Curso: Why Business? What is the Role of Business in a Just and Humane Society, Promedio: 4.90
+Curso: Why Smart Executives Fail: Common Mistakes & Warning Signs, Promedio: 4.90
+Curso: Wilderness First Aid Specialization, Promedio: 4.80
+Curso: William Shakespeare's Twelfth Night: Comedy, Conflict, and Community, Promedio: 4.70
+Curso: Windows OS Forensics, Promedio: 4.70
+Curso: Words Spun Out of Images: Visual and Literary Culture in Nineteenth Century Japan, Promedio: 4.80
+Curso: Work Smarter with Microsoft Excel, Promedio: 4.70
+Curso: Work Smarter with Microsoft PowerPoint, Promedio: 4.70
+Curso: Work Smarter with Microsoft Word, Promedio: 4.70
+Curso: Working as a Scrum Master, Promedio: 4.40
+Curso: Working with the Media, Promedio: 4.50
+Curso: Write A Feature Length Screenplay For Film Or Television, Promedio: 4.60
+Curso: Write Your First Novel, Promedio: 4.30
+Curso: Writing and Editing: Drafting, Promedio: 4.80
+Curso: Writing and Editing: Revising, Promedio: 4.80
+Curso: Writing and Editing: Structure and Organization, Promedio: 4.80
+Curso: Writing and Editing: Word Choice and Word Order, Promedio: 4.70
+Curso: ¿Cómo viajamos por la ciudad? Asignación y equilibrio en redes de transporte., Promedio: 4.90
+Curso: ÉCHELLE RACE: Dépistage préhospitalier de l’AVC impliquant une occlusion de gros vaisseaux cérébraux, Promedio: 4.70
+Curso: Énergie renouvelable Specialization, Promedio: 4.80
+Curso: Ética y Gobierno Corporativo, Promedio: 4.70
+Curso: Основы графического дизайна, Promedio: 4.90
+Curso: Цифровий маркетинг і електронна комерція від Google Professional Certificate, Promedio: 4.90
+Curso: أساسيات الذكاء الاصطناعي والبيانات الضخمة | AI, Promedio: 4.90
+Curso: إدارة الفعاليات | Events Management, Promedio: 4.50
+Curso: إدارة المشروعات من Google Professional Certificate, Promedio: 4.70
+Curso: إدارة ضغوط الحياة  | Stress Management, Promedio: 4.90
+Curso: الإعلان من خلال فيسبوك, Promedio: 4.70
+Curso: التحدث والتواصل بثقة | Communicating With Confidence, Promedio: 4.90
+Curso: التفكير الناقد | Critical Thinking, Promedio: 4.90
+Curso: التميز في خدمة وإسعاد المتعاملين, Promedio: 4.90
+Curso: الثقافة المالية | Financial Literacy, Promedio: 4.90
+Curso: الطاقة المتجددة Specialization, Promedio: 4.80
+Curso: تحقيق السعادة في بيئة العمل | Achieving Happiness at Work, Promedio: 4.90
+Curso: تحليلات البيانات من Google Professional Certificate, Promedio: 4.80
+Curso: لغة الجسد | Body Language, Promedio: 4.50
+Curso: ما هي الإدارة ولماذا نحتاج إليها |What and Why of Management, Promedio: 4.90
+Curso: مهارات إدارة المواهب | Talent Management Skills, Promedio: 4.90
+Curso: مهارات تنشيط الذاكرة | Memory Enhancing Skills, Promedio: 4.90
+Curso: 파이썬 단기집중과정, Promedio: 4.70
